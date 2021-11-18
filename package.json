@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node start.js",
     "zip": "zip -r action.zip node_modules main.js",
-    "deploy": "npm run zip && ibmcloud fn action update gitRankingAction action.zip --param-file params.json --kind nodejs:12"
+    "deploy": "npm run zip && ibmcloud fn action update japanGithubRankingAction action.zip --param-file params.json --kind nodejs:12"
   },
   "author": "zzzmisa",
   "dependencies": {

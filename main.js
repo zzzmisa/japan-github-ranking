@@ -12,14 +12,15 @@ async function main(params) {
 
   const repos = await searchRepos(octokit, 70);
   const filteredRepos = await filterReposByReadme(octokit, repos.slice(0, 70));
-  const updateReadmeResult = updateReadme(octokit, filteredRepos.slice(0, 50), params);
-  const newJsonFileResult = newJsonFile(octokit, filteredRepos.slice(0, 50), params);
-
-  console.log(new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
+  await Promise.all([
+    updateReadme(octokit, filteredRepos.slice(0, 50), params),
+    newJsonFile(octokit, filteredRepos.slice(0, 50), params),
+  ]);
 
   //const fs = require('fs'); // デバッグ用
   //fs.writeFileSync('output.json', JSON.stringify(filteredRepos, null, '\t')) // デバッグ用
-  return filteredRepos;
+  console.log(new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
+  return { result: 'OK' };
 }
 
 /**
