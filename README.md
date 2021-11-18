@@ -4,7 +4,7 @@
 DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
     毎日自動で更新されます。データは簡易的に作成しており非公式です。
 
-_ランキング更新日: 2021/11/18 10:15:01_
+_ランキング更新日: 11/18/2021, 2:36:57 PM_
 
 ***
 <dl>
@@ -89,7 +89,7 @@ _ランキング更新日: 2021/11/18 10:15:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 924</i><br>
+    <i>☆ 926</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -124,7 +124,7 @@ _ランキング更新日: 2021/11/18 10:15:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/873306?u=dc535cbe2f687569082c5aa74ec243a0a181defd&v=4" alt="arosh" width="36" height="36"><br>
     <a href="https://github.com/arosh/ublacklist-stackoverflow-translation/" ><b>arosh/ublacklist-stackoverflow-translation</b></a><br>
-    <i>☆ 666</i><br>
+    <i>☆ 667</i><br>
     Stack Overflow の機械翻訳サイトの除外用フィルタ
   </dd>
   <dt>18位</dt>
@@ -255,17 +255,17 @@ _ランキング更新日: 2021/11/18 10:15:01_
   </dd>
   <dt>36位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/4395?u=78a71103fc1ac725395be04755af824b5a930ea7&v=4" alt="matsuu" width="36" height="36"><br>
-    <a href="https://github.com/matsuu/vagrant-isucon/" ><b>matsuu/vagrant-isucon</b></a><br>
-    <i>☆ 417</i><br>
-    ISUCON過去問を構築するためのVagrantfile集
-  </dd>
-  <dt>37位</dt>
-  <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
     <i>☆ 417</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
+  </dd>
+  <dt>37位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/4395?u=78a71103fc1ac725395be04755af824b5a930ea7&v=4" alt="matsuu" width="36" height="36"><br>
+    <a href="https://github.com/matsuu/vagrant-isucon/" ><b>matsuu/vagrant-isucon</b></a><br>
+    <i>☆ 416</i><br>
+    ISUCON過去問を構築するためのVagrantfile集
   </dd>
   <dt>38位</dt>
   <dd>
@@ -306,7 +306,7 @@ _ランキング更新日: 2021/11/18 10:15:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 367</i><br>
+    <i>☆ 368</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>44位</dt>
