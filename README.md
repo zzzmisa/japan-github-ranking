@@ -4,7 +4,7 @@
 DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
     毎日自動で更新されます。データは簡易的に作成しており非公式です。
 
-_ランキング更新日: 11/18/2021, 2:36:57 PM_
+_ランキング更新日: 11/18/2021, 2:50:00 PM_
 
 ***
 <dl>
@@ -201,7 +201,7 @@ _ランキング更新日: 11/18/2021, 2:36:57 PM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 496</i><br>
+    <i>☆ 495</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>29位</dt>
