@@ -1,0 +1,19 @@
+{
+  "name": "japan-git-ranking",
+  "version": "1.0.0",
+  "description": "Ranking of GitHub repositories written in Japanese",
+  "main": "main.js",
+  "scripts": {
+    "start": "node start.js",
+    "zip": "zip -r action.zip node_modules main.js",
+    "deploy": "npm run zip && ibmcloud fn action update gitRankingAction action.zip --param-file params.json --kind nodejs:12"
+  },
+  "author": "zzzmisa",
+  "dependencies": {
+    "@octokit/core": "^3.5.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "printWidth": 120
+  }
+}
