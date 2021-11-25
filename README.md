@@ -4,7 +4,7 @@
 DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
     毎日自動で更新されます。データは簡易的に作成しており非公式です。
 
-_ランキング更新日: 11/24/2021, 9:02:12 AM_
+_ランキング更新日: 11/25/2021, 9:02:17 AM_
 
 ***
 <dl>
@@ -12,7 +12,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6382</i><br>
+    <i>☆ 6387</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -33,7 +33,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14185?v=4" alt="hatena" width="36" height="36"><br>
     <a href="https://github.com/hatena/Hatena-Textbook/" ><b>hatena/Hatena-Textbook</b></a><br>
-    <i>☆ 2137</i><br>
+    <i>☆ 2138</i><br>
     はてな研修用教科書
   </dd>
   <dt>5位</dt>
@@ -54,7 +54,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1401</i><br>
+    <i>☆ 1403</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -89,7 +89,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 934</i><br>
+    <i>☆ 942</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -117,7 +117,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 678</i><br>
+    <i>☆ 679</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>17位</dt>
@@ -157,17 +157,17 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   </dd>
   <dt>22位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
+    <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
+    <i>☆ 560</i><br>
+    おめシスのホームページを作りたい
+  </dd>
+  <dt>23位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
     <i>☆ 560</i><br>
     Unix系システムのプロセスについて日本語で解説しています
-  </dd>
-  <dt>23位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
-    <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 559</i><br>
-    おめシスのホームページを作りたい
   </dd>
   <dt>24位</dt>
   <dd>
@@ -201,14 +201,14 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 497</i><br>
+    <i>☆ 499</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 479</i><br>
+    <i>☆ 481</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>30位</dt>
@@ -229,7 +229,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 458</i><br>
+    <i>☆ 459</i><br>
     Scala学習用テキスト
   </dd>
   <dt>33位</dt>
@@ -250,14 +250,14 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14890632?v=4" alt="future-architect" width="36" height="36"><br>
     <a href="https://github.com/future-architect/typescript-guide/" ><b>future-architect/typescript-guide</b></a><br>
-    <i>☆ 436</i><br>
+    <i>☆ 437</i><br>
     ゼロから学ぶTypeScriptガイド
   </dd>
   <dt>36位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 422</i><br>
+    <i>☆ 423</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>37位</dt>
@@ -278,7 +278,7 @@ _ランキング更新日: 11/24/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 386</i><br>
+    <i>☆ 387</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>40位</dt>
