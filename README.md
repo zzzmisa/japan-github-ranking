@@ -4,7 +4,7 @@
 DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
     毎日自動で更新されます。データは簡易的に作成しており非公式です。
 
-_ランキング更新日: 12/5/2021, 9:02:43 AM_
+_ランキング更新日: 12/6/2021, 9:02:22 AM_
 
 ***
 <dl>
@@ -19,14 +19,14 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6265</i><br>
+    <i>☆ 6266</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2915</i><br>
+    <i>☆ 2917</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -54,7 +54,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1425</i><br>
+    <i>☆ 1426</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -75,21 +75,21 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1090</i><br>
+    <i>☆ 1093</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1056</i><br>
+    <i>☆ 1057</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 973</i><br>
+    <i>☆ 974</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -103,7 +103,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 892</i><br>
+    <i>☆ 894</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -131,7 +131,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 632</i><br>
+    <i>☆ 633</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>19位</dt>
@@ -159,7 +159,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
     <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 560</i><br>
+    <i>☆ 561</i><br>
     おめシスのホームページを作りたい
   </dd>
   <dt>23位</dt>
@@ -194,7 +194,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 503</i><br>
+    <i>☆ 504</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>28位</dt>
@@ -208,14 +208,14 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 492</i><br>
+    <i>☆ 493</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>30位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
-    <i>☆ 473</i><br>
+    <i>☆ 474</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
   <dt>31位</dt>
@@ -285,7 +285,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 387</i><br>
+    <i>☆ 388</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>41位</dt>
@@ -306,7 +306,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 370</i><br>
+    <i>☆ 371</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>44位</dt>
@@ -320,7 +320,7 @@ _ランキング更新日: 12/5/2021, 9:02:43 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/2605401?u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" alt="kenjinote" width="36" height="36"><br>
     <a href="https://github.com/kenjinote/cmdchat/" ><b>kenjinote/cmdchat</b></a><br>
-    <i>☆ 359</i><br>
+    <i>☆ 360</i><br>
     コマンド プロンプト (チャット風)
   </dd>
   <dt>46位</dt>
