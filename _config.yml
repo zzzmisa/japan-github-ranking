@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Japan GitHub Ranking
 google_analytics: G-140YPX00VR
+defaults:
+  - scope:
+      path: ''
+    values:
+      image:
+        path: ogimage.png
