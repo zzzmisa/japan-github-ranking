@@ -1,5 +1,9 @@
 # Contribution Guide
 
+## システム概要
+
+[日本語しか読みたくない人ための GitHub ランキング - zzzmisa's blog](https://blog.zzzmisa.com/japan-github-ranking/)
+
 ## 動かし方
 
 ### params
