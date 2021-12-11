@@ -4,7 +4,7 @@
 DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
     毎日自動で更新されます。データは簡易的に作成しており非公式です。
 
-_ランキング更新日: 12/11/2021, 9:01:59 AM_
+_ランキング更新日: 12/11/2021, 11:33:50 AM_
 
 ***
 <dl>
@@ -145,7 +145,7 @@ _ランキング更新日: 12/11/2021, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 572</i><br>
+    <i>☆ 573</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>21位</dt>
