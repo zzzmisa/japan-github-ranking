@@ -209,11 +209,13 @@ const updateReadme = async (octokit, repos, params) => {
   const introSection =
     `# Japan GitHub Ranking\n\n` +
     `![Japan GitHub Ranking](japan-github-ranking.png)\n` +
-    `DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、GitHubスター数で並べ替えたランキングです。
-    毎日自動で更新されます。データは簡易的に作成しており非公式です。\n\n`;
+    `DescriptionとReadme両方に日本語がある程度書かれているリポジトリを、スター数で並べ替えたランキングです。` +
+    `毎日自動で更新されます。データは簡易的に作成しており非公式です。\n\n` +
+    `Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. ` +
+    `Automatically update daily. The data is aggregated without taking proper steps and unofficial.\n\n`;
 
   const date = new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' });
-  const dateSection = `_ランキング更新日: ${date}_\n\n`;
+  const dateSection = `_Last Update Time:: ${date}_\n\n`;
   const horizontalLine = `***\n`;
 
   const dtddElmArr = repos.map(
@@ -247,7 +249,7 @@ const updateReadme = async (octokit, repos, params) => {
     repo: params.output_repository_name,
     path: 'README.md',
     message: 'Auto update: README.md',
-    content: Buffer.from(introSection + dateSection + horizontalLine + dlElm, 'utf-8').toString('base64'),
+    content: Buffer.from(introSection + horizontalLine + dateSection + dlElm, 'utf-8').toString('base64'),
     sha: getReadmeRes ? getReadmeRes.data.sha : null,
   });
 
