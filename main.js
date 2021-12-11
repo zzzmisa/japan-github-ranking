@@ -10,8 +10,8 @@ async function main(params) {
   console.log(new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
   const octokit = new Octokit({ auth: params.github_personal_access_token });
 
-  const repos = await searchRepos(octokit, 70);
-  const filteredRepos = await filterReposByReadme(octokit, repos.slice(0, 70));
+  const repos = await searchRepos(octokit, 100);
+  const filteredRepos = await filterReposByReadme(octokit, repos);
   await Promise.all([
     updateReadme(octokit, filteredRepos.slice(0, 50), params),
     newJsonFile(octokit, filteredRepos.slice(0, 50), params),
