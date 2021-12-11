@@ -158,11 +158,12 @@ const searchRepos = async (octokit, returnNum) => {
  */
 const filterReposByReadme = async (octokit, repos) => {
   const kanaLowerLimit = 20;
-  let ranking = 0;
 
   const getRepos = async (repos) => {
-    const misa = await Promise.all(repos.map(getAndFormatRepo));
-    return misa.filter(Boolean);
+    const formattedRepos = await Promise.all(repos.map(getAndFormatRepo));
+    const filteredRepos = formattedRepos.filter(Boolean);
+    const addedRankingRepos = filteredRepos.map((value, index) => ({ ranking: index + 1, ...value }));
+    return addedRankingRepos;
   };
 
   const getAndFormatRepo = async (repo) => {
@@ -175,9 +176,7 @@ const filterReposByReadme = async (octokit, repos) => {
         const readme = Buffer.from(data.content, 'base64').toString();
         if (countKana(readme) < kanaLowerLimit) return false;
         else {
-          ranking = ranking + 1;
           return {
-            ranking: ranking,
             id: repo.id,
             login: repo.owner.login,
             name: repo.name,
