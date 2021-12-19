@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/18/2021, 9:02:09 AM_
+_Last Update Time:: 12/19/2021, 9:02:10 AM_
 
 <dl>
   <dt>1位</dt>
@@ -27,7 +27,7 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2930</i><br>
+    <i>☆ 2929</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,28 +41,28 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2067</i><br>
+    <i>☆ 2068</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1700</i><br>
+    <i>☆ 1699</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1431</i><br>
+    <i>☆ 1432</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1302</i><br>
+    <i>☆ 1303</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>9位</dt>
@@ -83,7 +83,7 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1064</i><br>
+    <i>☆ 1066</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
@@ -118,7 +118,7 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/873306?u=dc535cbe2f687569082c5aa74ec243a0a181defd&v=4" alt="arosh" width="36" height="36"><br>
     <a href="https://github.com/arosh/ublacklist-stackoverflow-translation/" ><b>arosh/ublacklist-stackoverflow-translation</b></a><br>
-    <i>☆ 690</i><br>
+    <i>☆ 692</i><br>
     Stack Overflow の機械翻訳サイトの除外用フィルタ
   </dd>
   <dt>17位</dt>
@@ -193,23 +193,23 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   </dd>
   <dt>27位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
+    <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
+    <i>☆ 509</i><br>
+    このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
+  </dd>
+  <dt>28位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
     <i>☆ 509</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
-  <dt>28位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
-    <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 508</i><br>
-    このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
-  </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 504</i><br>
+    <i>☆ 505</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>30位</dt>
@@ -244,7 +244,7 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 457</i><br>
+    <i>☆ 456</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>35位</dt>
@@ -354,9 +354,9 @@ _Last Update Time:: 12/18/2021, 9:02:09 AM_
   </dd>
   <dt>50位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/544269?u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" alt="icoxfog417" width="36" height="36"><br>
-    <a href="https://github.com/icoxfog417/baby-steps-of-rl-ja/" ><b>icoxfog417/baby-steps-of-rl-ja</b></a><br>
-    <i>☆ 344</i><br>
-    Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード
+    <img src="https://avatars.githubusercontent.com/u/30512617?v=4" alt="kmiya-culti" width="36" height="36"><br>
+    <a href="https://github.com/kmiya-culti/RLogin/" ><b>kmiya-culti/RLogin</b></a><br>
+    <i>☆ 345</i><br>
+    RLoginは、Windows上で動作するターミナルソフトです
   </dd>
 </dl>
