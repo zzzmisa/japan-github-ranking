@@ -1,4 +1,4 @@
-# Contribution Guide
+# Developing Japan GitHub Ranking
 
 ## システム概要
 
