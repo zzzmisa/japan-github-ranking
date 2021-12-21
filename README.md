@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/20/2021, 9:02:10 AM_
+_Last Update Time:: 12/21/2021, 9:02:12 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6465</i><br>
+    <i>☆ 6467</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,7 +27,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2931</i><br>
+    <i>☆ 2932</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -62,7 +62,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1303</i><br>
+    <i>☆ 1302</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>9位</dt>
@@ -83,14 +83,14 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1066</i><br>
+    <i>☆ 1067</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1007</i><br>
+    <i>☆ 1011</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -104,7 +104,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 897</i><br>
+    <i>☆ 898</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -146,14 +146,14 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 576</i><br>
+    <i>☆ 579</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>21位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 565</i><br>
+    <i>☆ 566</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>22位</dt>
@@ -202,7 +202,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 509</i><br>
+    <i>☆ 508</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>29位</dt>
@@ -244,7 +244,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 456</i><br>
+    <i>☆ 458</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>35位</dt>
@@ -272,7 +272,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/29084?u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" alt="rosylilly" width="36" height="36"><br>
     <a href="https://github.com/rosylilly/git-tasukete/" ><b>rosylilly/git-tasukete</b></a><br>
-    <i>☆ 399</i><br>
+    <i>☆ 400</i><br>
     gitで助けて欲しい時に
   </dd>
   <dt>39位</dt>
@@ -293,7 +293,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 389</i><br>
+    <i>☆ 390</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>42位</dt>
@@ -326,7 +326,7 @@ _Last Update Time:: 12/20/2021, 9:02:10 AM_
   </dd>
   <dt>46位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/24487281?u=72cff67bccde49c6046532c9b20a4ab5258ad3c0&v=4" alt="yuk1ty" width="36" height="36"><br>
+    <img src="https://avatars.githubusercontent.com/u/24487281?u=b1bd8c6d0a8a07fc1c08e413e0ff4bf7b89b6423&v=4" alt="yuk1ty" width="36" height="36"><br>
     <a href="https://github.com/yuk1ty/learning-systems-programming-in-rust/" ><b>yuk1ty/learning-systems-programming-in-rust</b></a><br>
     <i>☆ 355</i><br>
     「Rustでもわかるシステムプログラミング」
