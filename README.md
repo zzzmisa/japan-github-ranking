@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/21/2021, 9:02:12 AM_
+_Last Update Time:: 12/22/2021, 9:02:13 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6467</i><br>
+    <i>☆ 6469</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,7 +27,7 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2932</i><br>
+    <i>☆ 2933</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -48,14 +48,14 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1700</i><br>
+    <i>☆ 1701</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1432</i><br>
+    <i>☆ 1433</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -90,7 +90,7 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1011</i><br>
+    <i>☆ 1014</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -118,28 +118,28 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/873306?u=dc535cbe2f687569082c5aa74ec243a0a181defd&v=4" alt="arosh" width="36" height="36"><br>
     <a href="https://github.com/arosh/ublacklist-stackoverflow-translation/" ><b>arosh/ublacklist-stackoverflow-translation</b></a><br>
-    <i>☆ 692</i><br>
+    <i>☆ 691</i><br>
     Stack Overflow の機械翻訳サイトの除外用フィルタ
   </dd>
   <dt>17位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 684</i><br>
+    <i>☆ 685</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>18位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 646</i><br>
+    <i>☆ 648</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>19位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 585</i><br>
+    <i>☆ 586</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>20位</dt>
@@ -179,23 +179,23 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   </dd>
   <dt>25位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
+    <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
+    <i>☆ 515</i><br>
+    Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
+  </dd>
+  <dt>26位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/1326777?v=4" alt="everyleaf" width="36" height="36"><br>
     <a href="https://github.com/everyleaf/el-training/" ><b>everyleaf/el-training</b></a><br>
     <i>☆ 515</i><br>
     株式会社万葉の新入社員教育用カリキュラム
   </dd>
-  <dt>26位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
-    <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
-    <i>☆ 514</i><br>
-    Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
-  </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 510</i><br>
+    <i>☆ 511</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>28位</dt>
@@ -216,7 +216,7 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
-    <i>☆ 476</i><br>
+    <i>☆ 477</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
   <dt>31位</dt>
@@ -272,22 +272,22 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/29084?u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" alt="rosylilly" width="36" height="36"><br>
     <a href="https://github.com/rosylilly/git-tasukete/" ><b>rosylilly/git-tasukete</b></a><br>
-    <i>☆ 400</i><br>
+    <i>☆ 401</i><br>
     gitで助けて欲しい時に
   </dd>
   <dt>39位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
+    <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
+    <i>☆ 393</i><br>
+    Mirakurun を使用した録画管理ソフト
+  </dd>
+  <dt>40位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
     <i>☆ 392</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
-  </dd>
-  <dt>40位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
-    <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 391</i><br>
-    Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>41位</dt>
   <dd>
@@ -300,7 +300,7 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1533421?u=0e95aacbb42bb9fc7bae6fdae7c2f91b44e87e27&v=4" alt="sanographix" width="36" height="36"><br>
     <a href="https://github.com/sanographix/azusa-keynote/" ><b>sanographix/azusa-keynote</b></a><br>
-    <i>☆ 376</i><br>
+    <i>☆ 377</i><br>
     大体いい感じになるKeynoteテンプレート
   </dd>
   <dt>43位</dt>
@@ -326,24 +326,24 @@ _Last Update Time:: 12/21/2021, 9:02:12 AM_
   </dd>
   <dt>46位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/24487281?u=b1bd8c6d0a8a07fc1c08e413e0ff4bf7b89b6423&v=4" alt="yuk1ty" width="36" height="36"><br>
-    <a href="https://github.com/yuk1ty/learning-systems-programming-in-rust/" ><b>yuk1ty/learning-systems-programming-in-rust</b></a><br>
-    <i>☆ 355</i><br>
-    「Rustでもわかるシステムプログラミング」
+    <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
+    <a href="https://github.com/Shinpeim/introduction-to-git/" ><b>Shinpeim/introduction-to-git</b></a><br>
+    <i>☆ 352</i><br>
+    Gitをはじめからていねいに
   </dd>
   <dt>47位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/24487281?u=b1bd8c6d0a8a07fc1c08e413e0ff4bf7b89b6423&v=4" alt="yuk1ty" width="36" height="36"><br>
+    <a href="https://github.com/yuk1ty/learning-systems-programming-in-rust/" ><b>yuk1ty/learning-systems-programming-in-rust</b></a><br>
+    <i>☆ 352</i><br>
+    「Rustでもわかるシステムプログラミング」
+  </dd>
+  <dt>48位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16773079?v=4" alt="rust-lang-ja" width="36" height="36"><br>
     <a href="https://github.com/rust-lang-ja/the-rust-programming-language-ja/" ><b>rust-lang-ja/the-rust-programming-language-ja</b></a><br>
     <i>☆ 351</i><br>
     Rust文書の【旧】和訳レポジトリ → 最新版はこちら： https://github.com/rust-lang-ja/book-ja
-  </dd>
-  <dt>48位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
-    <a href="https://github.com/Shinpeim/introduction-to-git/" ><b>Shinpeim/introduction-to-git</b></a><br>
-    <i>☆ 351</i><br>
-    Gitをはじめからていねいに
   </dd>
   <dt>49位</dt>
   <dd>
