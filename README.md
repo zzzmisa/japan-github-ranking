@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/23/2021, 9:02:10 AM_
+_Last Update Time:: 12/24/2021, 9:02:07 AM_
 
 <dl>
   <dt>1位</dt>
@@ -27,7 +27,7 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2935</i><br>
+    <i>☆ 2938</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -83,14 +83,14 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1068</i><br>
+    <i>☆ 1069</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1018</i><br>
+    <i>☆ 1019</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -118,7 +118,7 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/873306?u=dc535cbe2f687569082c5aa74ec243a0a181defd&v=4" alt="arosh" width="36" height="36"><br>
     <a href="https://github.com/arosh/ublacklist-stackoverflow-translation/" ><b>arosh/ublacklist-stackoverflow-translation</b></a><br>
-    <i>☆ 692</i><br>
+    <i>☆ 694</i><br>
     Stack Overflow の機械翻訳サイトの除外用フィルタ
   </dd>
   <dt>17位</dt>
@@ -146,14 +146,14 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 580</i><br>
+    <i>☆ 581</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>21位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 566</i><br>
+    <i>☆ 568</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>22位</dt>
@@ -202,14 +202,14 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 508</i><br>
+    <i>☆ 509</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 506</i><br>
+    <i>☆ 507</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>30位</dt>
@@ -314,7 +314,7 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/2605401?u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" alt="kenjinote" width="36" height="36"><br>
     <a href="https://github.com/kenjinote/cmdchat/" ><b>kenjinote/cmdchat</b></a><br>
-    <i>☆ 364</i><br>
+    <i>☆ 365</i><br>
     コマンド プロンプト (チャット風)
   </dd>
   <dt>45位</dt>
@@ -356,7 +356,7 @@ _Last Update Time:: 12/23/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30512617?v=4" alt="kmiya-culti" width="36" height="36"><br>
     <a href="https://github.com/kmiya-culti/RLogin/" ><b>kmiya-culti/RLogin</b></a><br>
-    <i>☆ 345</i><br>
+    <i>☆ 346</i><br>
     RLoginは、Windows上で動作するターミナルソフトです
   </dd>
 </dl>
