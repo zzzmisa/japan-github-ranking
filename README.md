@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/24/2021, 9:02:07 AM_
+_Last Update Time:: 12/25/2021, 9:02:05 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6472</i><br>
+    <i>☆ 6473</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,7 +27,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2938</i><br>
+    <i>☆ 2939</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -55,7 +55,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1432</i><br>
+    <i>☆ 1433</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -97,14 +97,14 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1779073?u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" alt="Grabacr07" width="36" height="36"><br>
     <a href="https://github.com/Grabacr07/KanColleViewer/" ><b>Grabacr07/KanColleViewer</b></a><br>
-    <i>☆ 914</i><br>
+    <i>☆ 913</i><br>
     艦これブラウザーのようなもの
   </dd>
   <dt>14位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 898</i><br>
+    <i>☆ 899</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -132,7 +132,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 649</i><br>
+    <i>☆ 651</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>19位</dt>
@@ -153,7 +153,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 568</i><br>
+    <i>☆ 570</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>22位</dt>
@@ -179,17 +179,17 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   </dd>
   <dt>25位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/1326777?v=4" alt="everyleaf" width="36" height="36"><br>
+    <a href="https://github.com/everyleaf/el-training/" ><b>everyleaf/el-training</b></a><br>
+    <i>☆ 516</i><br>
+    株式会社万葉の新入社員教育用カリキュラム
+  </dd>
+  <dt>26位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
     <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
     <i>☆ 515</i><br>
     Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
-  </dd>
-  <dt>26位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/1326777?v=4" alt="everyleaf" width="36" height="36"><br>
-    <a href="https://github.com/everyleaf/el-training/" ><b>everyleaf/el-training</b></a><br>
-    <i>☆ 515</i><br>
-    株式会社万葉の新入社員教育用カリキュラム
   </dd>
   <dt>27位</dt>
   <dd>
@@ -223,7 +223,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 464</i><br>
+    <i>☆ 465</i><br>
     Scala学習用テキスト
   </dd>
   <dt>32位</dt>
@@ -279,7 +279,7 @@ _Last Update Time:: 12/24/2021, 9:02:07 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 393</i><br>
+    <i>☆ 394</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>40位</dt>
