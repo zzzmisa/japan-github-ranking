@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time:: 12/28/2021, 9:02:10 AM_
+_Last Update Time:: 12/29/2021, 9:02:10 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6485</i><br>
+    <i>☆ 6487</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6265</i><br>
+    <i>☆ 6266</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
@@ -55,14 +55,14 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1435</i><br>
+    <i>☆ 1436</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1302</i><br>
+    <i>☆ 1303</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>9位</dt>
@@ -76,14 +76,14 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1097</i><br>
+    <i>☆ 1098</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1069</i><br>
+    <i>☆ 1070</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
@@ -132,7 +132,7 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 655</i><br>
+    <i>☆ 658</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>19位</dt>
@@ -153,7 +153,7 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 571</i><br>
+    <i>☆ 572</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>22位</dt>
@@ -202,14 +202,14 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 510</i><br>
+    <i>☆ 512</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 509</i><br>
+    <i>☆ 510</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>30位</dt>
@@ -223,7 +223,7 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 466</i><br>
+    <i>☆ 465</i><br>
     Scala学習用テキスト
   </dd>
   <dt>32位</dt>
@@ -251,7 +251,7 @@ _Last Update Time:: 12/28/2021, 9:02:10 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 438</i><br>
+    <i>☆ 441</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>36位</dt>
