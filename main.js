@@ -215,7 +215,7 @@ const updateReadme = async (octokit, repos, params) => {
     `Automatically update daily. The data is aggregated without taking proper steps and unofficial.\n\n`;
 
   const date = new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' });
-  const dateSection = `_Last Update Time:: ${date}_\n\n`;
+  const dateSection = `_Last Update Time: ${date}_\n\n`;
   const horizontalLine = `***\n`;
 
   const dtddElmArr = repos.map(
