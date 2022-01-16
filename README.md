@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 1/16/2022, 8:18:52 AM_
+_Last Update Time: 1/16/2022, 9:02:11 AM_
 
 <dl>
   <dt>1位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 1/16/2022, 8:18:52 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1101</i><br>
+    <i>☆ 1102</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>10位</dt>
