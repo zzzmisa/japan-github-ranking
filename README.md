@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 1/24/2022, 9:02:08 AM_
+_Last Update Time: 1/25/2022, 9:02:17 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6542</i><br>
+    <i>☆ 6543</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6291</i><br>
+    <i>☆ 6293</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2957</i><br>
+    <i>☆ 2958</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,14 +41,14 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2079</i><br>
+    <i>☆ 2080</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1754</i><br>
+    <i>☆ 1756</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -62,14 +62,14 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1304</i><br>
+    <i>☆ 1305</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1102</i><br>
+    <i>☆ 1103</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>10位</dt>
@@ -83,14 +83,14 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1097</i><br>
+    <i>☆ 1098</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1079</i><br>
+    <i>☆ 1083</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>13位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 901</i><br>
+    <i>☆ 902</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 695</i><br>
+    <i>☆ 696</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>18位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 580</i><br>
+    <i>☆ 581</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>21位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 519</i><br>
+    <i>☆ 521</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>27位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14890632?v=4" alt="future-architect" width="36" height="36"><br>
     <a href="https://github.com/future-architect/typescript-guide/" ><b>future-architect/typescript-guide</b></a><br>
-    <i>☆ 435</i><br>
+    <i>☆ 436</i><br>
     ゼロから学ぶTypeScriptガイド
   </dd>
   <dt>36位</dt>
@@ -263,17 +263,17 @@ _Last Update Time: 1/24/2022, 9:02:08 AM_
   </dd>
   <dt>37位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
+    <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
+    <i>☆ 405</i><br>
+    Mirakurun を使用した録画管理ソフト
+  </dd>
+  <dt>38位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/29084?u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" alt="rosylilly" width="36" height="36"><br>
     <a href="https://github.com/rosylilly/git-tasukete/" ><b>rosylilly/git-tasukete</b></a><br>
     <i>☆ 403</i><br>
     gitで助けて欲しい時に
-  </dd>
-  <dt>38位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
-    <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 402</i><br>
-    Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>39位</dt>
   <dd>
