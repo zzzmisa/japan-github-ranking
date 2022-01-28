@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 1/27/2022, 9:02:02 AM_
+_Last Update Time: 1/28/2022, 9:02:03 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6548</i><br>
+    <i>☆ 6551</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2081</i><br>
+    <i>☆ 2082</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1454</i><br>
+    <i>☆ 1453</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -69,14 +69,14 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1103</i><br>
+    <i>☆ 1104</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1101</i><br>
+    <i>☆ 1102</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 699</i><br>
+    <i>☆ 701</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>17位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
     <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 559</i><br>
+    <i>☆ 560</i><br>
     おめシスのホームページを作りたい
   </dd>
   <dt>22位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 541</i><br>
+    <i>☆ 543</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>24位</dt>
@@ -265,7 +265,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 405</i><br>
+    <i>☆ 406</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>38位</dt>
@@ -286,7 +286,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 394</i><br>
+    <i>☆ 395</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>41位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 1/27/2022, 9:02:02 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1533421?u=0e95aacbb42bb9fc7bae6fdae7c2f91b44e87e27&v=4" alt="sanographix" width="36" height="36"><br>
     <a href="https://github.com/sanographix/azusa-keynote/" ><b>sanographix/azusa-keynote</b></a><br>
-    <i>☆ 378</i><br>
+    <i>☆ 377</i><br>
     大体いい感じになるKeynoteテンプレート
   </dd>
   <dt>43位</dt>
