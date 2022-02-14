@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2/13/2022, 9:01:42 AM_
+_Last Update Time: 2/14/2022, 9:01:51 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6591</i><br>
+    <i>☆ 6597</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6303</i><br>
+    <i>☆ 6305</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 2983</i><br>
+    <i>☆ 2985</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2094</i><br>
+    <i>☆ 2095</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1156</i><br>
+    <i>☆ 1163</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>10位</dt>
@@ -83,14 +83,14 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1110</i><br>
+    <i>☆ 1109</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
-    <i>☆ 1098</i><br>
+    <i>☆ 1099</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
   </dd>
   <dt>13位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 903</i><br>
+    <i>☆ 902</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 701</i><br>
+    <i>☆ 702</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>18位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 547</i><br>
+    <i>☆ 549</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>24位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 531</i><br>
+    <i>☆ 532</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>27位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 474</i><br>
+    <i>☆ 476</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>31位</dt>
@@ -251,14 +251,14 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14890632?v=4" alt="future-architect" width="36" height="36"><br>
     <a href="https://github.com/future-architect/typescript-guide/" ><b>future-architect/typescript-guide</b></a><br>
-    <i>☆ 437</i><br>
+    <i>☆ 438</i><br>
     ゼロから学ぶTypeScriptガイド
   </dd>
   <dt>36位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 418</i><br>
+    <i>☆ 420</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>37位</dt>
@@ -293,7 +293,7 @@ _Last Update Time: 2/13/2022, 9:01:42 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 384</i><br>
+    <i>☆ 385</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>42位</dt>
