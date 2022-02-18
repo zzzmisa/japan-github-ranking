@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2/17/2022, 9:02:11 AM_
+_Last Update Time: 2/18/2022, 9:02:16 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6606</i><br>
+    <i>☆ 6611</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6310</i><br>
+    <i>☆ 6313</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
@@ -48,7 +48,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1786</i><br>
+    <i>☆ 1787</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -69,14 +69,14 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1170</i><br>
+    <i>☆ 1171</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1123</i><br>
+    <i>☆ 1126</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>11位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 903</i><br>
+    <i>☆ 904</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 733</i><br>
+    <i>☆ 735</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>17位</dt>
@@ -202,7 +202,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
     <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
-    <i>☆ 515</i><br>
+    <i>☆ 517</i><br>
     Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
   </dd>
   <dt>29位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 476</i><br>
+    <i>☆ 477</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>31位</dt>
@@ -230,14 +230,14 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 469</i><br>
+    <i>☆ 468</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>33位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 466</i><br>
+    <i>☆ 467</i><br>
     Scala学習用テキスト
   </dd>
   <dt>34位</dt>
@@ -293,7 +293,7 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 385</i><br>
+    <i>☆ 386</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>42位</dt>
@@ -328,14 +328,14 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 355</i><br>
+    <i>☆ 356</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>47位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/introduction-to-git/" ><b>Shinpeim/introduction-to-git</b></a><br>
-    <i>☆ 354</i><br>
+    <i>☆ 355</i><br>
     Gitをはじめからていねいに
   </dd>
   <dt>48位</dt>
@@ -347,16 +347,16 @@ _Last Update Time: 2/17/2022, 9:02:11 AM_
   </dd>
   <dt>49位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/40289887?v=4" alt="sakura-cooking" width="36" height="36"><br>
+    <a href="https://github.com/sakura-cooking/takoyaki/" ><b>sakura-cooking/takoyaki</b></a><br>
+    <i>☆ 352</i><br>
+     さくらインターネット秘伝のたこ焼きレシピ
+  </dd>
+  <dt>50位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/16773079?v=4" alt="rust-lang-ja" width="36" height="36"><br>
     <a href="https://github.com/rust-lang-ja/the-rust-programming-language-ja/" ><b>rust-lang-ja/the-rust-programming-language-ja</b></a><br>
     <i>☆ 351</i><br>
     Rust文書の【旧】和訳レポジトリ → 最新版はこちら： https://github.com/rust-lang-ja/book-ja
-  </dd>
-  <dt>50位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/544269?u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" alt="icoxfog417" width="36" height="36"><br>
-    <a href="https://github.com/icoxfog417/baby-steps-of-rl-ja/" ><b>icoxfog417/baby-steps-of-rl-ja</b></a><br>
-    <i>☆ 350</i><br>
-    Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード
   </dd>
 </dl>
