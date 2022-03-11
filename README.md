@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 3/10/2022, 9:02:03 AM_
+_Last Update Time: 3/11/2022, 9:02:10 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6662</i><br>
+    <i>☆ 6663</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -62,7 +62,7 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1314</i><br>
+    <i>☆ 1315</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>9位</dt>
@@ -76,14 +76,14 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1164</i><br>
+    <i>☆ 1166</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1111</i><br>
+    <i>☆ 1112</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>12位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 785</i><br>
+    <i>☆ 788</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>17位</dt>
@@ -158,17 +158,17 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   </dd>
   <dt>22位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
+    <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
+    <i>☆ 562</i><br>
+    おめシスのホームページを作りたい
+  </dd>
+  <dt>23位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
     <i>☆ 562</i><br>
     Unix系システムのプロセスについて日本語で解説しています
-  </dd>
-  <dt>23位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
-    <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 561</i><br>
-    おめシスのホームページを作りたい
   </dd>
   <dt>24位</dt>
   <dd>
@@ -258,7 +258,7 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 427</i><br>
+    <i>☆ 428</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>37位</dt>
@@ -349,14 +349,14 @@ _Last Update Time: 3/10/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 352</i><br>
+    <i>☆ 357</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>50位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/544269?u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" alt="icoxfog417" width="36" height="36"><br>
     <a href="https://github.com/icoxfog417/baby-steps-of-rl-ja/" ><b>icoxfog417/baby-steps-of-rl-ja</b></a><br>
-    <i>☆ 351</i><br>
+    <i>☆ 352</i><br>
     Pythonで学ぶ強化学習 -入門から実践まで- サンプルコード
   </dd>
 </dl>
