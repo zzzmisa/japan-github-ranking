@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 5/24/2022, 9:02:24 AM_
+_Last Update Time: 5/25/2022, 9:02:12 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6943</i><br>
+    <i>☆ 6948</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6350</i><br>
+    <i>☆ 6349</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3100</i><br>
+    <i>☆ 3103</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -48,14 +48,14 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1928</i><br>
+    <i>☆ 1930</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1546</i><br>
+    <i>☆ 1547</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 945</i><br>
+    <i>☆ 947</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>14位</dt>
@@ -132,7 +132,7 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 648</i><br>
+    <i>☆ 649</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>19位</dt>
@@ -174,35 +174,35 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 574</i><br>
+    <i>☆ 575</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>25位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 570</i><br>
+    <i>☆ 571</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>26位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
+    <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
+    <i>☆ 569</i><br>
+    VRゲーム中にモデルをコントロール
+  </dd>
+  <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
     <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
     <i>☆ 567</i><br>
     おめシスのホームページを作りたい
   </dd>
-  <dt>27位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
-    <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 567</i><br>
-    VRゲーム中にモデルをコントロール
-  </dd>
   <dt>28位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 561</i><br>
+    <i>☆ 562</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>29位</dt>
@@ -230,7 +230,7 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 509</i><br>
+    <i>☆ 511</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>33位</dt>
@@ -272,22 +272,22 @@ _Last Update Time: 5/24/2022, 9:02:24 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14890632?v=4" alt="future-architect" width="36" height="36"><br>
     <a href="https://github.com/future-architect/typescript-guide/" ><b>future-architect/typescript-guide</b></a><br>
-    <i>☆ 443</i><br>
+    <i>☆ 444</i><br>
     ゼロから学ぶTypeScriptガイド
   </dd>
   <dt>39位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
+    <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
+    <i>☆ 433</i><br>
+    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
+  </dd>
+  <dt>40位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
     <i>☆ 432</i><br>
     可読性の高いテストコードを書くためのお作法集
-  </dd>
-  <dt>40位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
-    <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 430</i><br>
-    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>41位</dt>
   <dd>
