@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 6/10/2022, 9:01:51 AM_
+_Last Update Time: 6/11/2022, 9:01:59 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6983</i><br>
+    <i>☆ 6982</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6350</i><br>
+    <i>☆ 6349</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3120</i><br>
+    <i>☆ 3121</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2128</i><br>
+    <i>☆ 2127</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
@@ -62,7 +62,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1368</i><br>
+    <i>☆ 1369</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1321</i><br>
+    <i>☆ 1322</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
-    <i>☆ 1093</i><br>
+    <i>☆ 1092</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
   </dd>
   <dt>13位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 926</i><br>
+    <i>☆ 925</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -167,14 +167,14 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 595</i><br>
+    <i>☆ 596</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>24位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 584</i><br>
+    <i>☆ 585</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>25位</dt>
@@ -195,7 +195,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
     <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 567</i><br>
+    <i>☆ 566</i><br>
     おめシスのホームページを作りたい
   </dd>
   <dt>28位</dt>
@@ -223,7 +223,7 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
     <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
-    <i>☆ 518</i><br>
+    <i>☆ 517</i><br>
     Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
   </dd>
   <dt>32位</dt>
@@ -340,17 +340,17 @@ _Last Update Time: 6/10/2022, 9:01:51 AM_
   </dd>
   <dt>48位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/40289887?v=4" alt="sakura-cooking" width="36" height="36"><br>
+    <a href="https://github.com/sakura-cooking/takoyaki/" ><b>sakura-cooking/takoyaki</b></a><br>
+    <i>☆ 370</i><br>
+     さくらインターネット秘伝のたこ焼きレシピ
+  </dd>
+  <dt>49位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/24487281?u=29f8308eaed22a47aa6c4f4e8d6de8e9139bc27c&v=4" alt="yuk1ty" width="36" height="36"><br>
     <a href="https://github.com/yuk1ty/learning-systems-programming-in-rust/" ><b>yuk1ty/learning-systems-programming-in-rust</b></a><br>
     <i>☆ 370</i><br>
     「Rustでもわかるシステムプログラミング」
-  </dd>
-  <dt>49位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/40289887?v=4" alt="sakura-cooking" width="36" height="36"><br>
-    <a href="https://github.com/sakura-cooking/takoyaki/" ><b>sakura-cooking/takoyaki</b></a><br>
-    <i>☆ 369</i><br>
-     さくらインターネット秘伝のたこ焼きレシピ
   </dd>
   <dt>50位</dt>
   <dd>
