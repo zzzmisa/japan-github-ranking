@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 6/11/2022, 9:01:59 AM_
+_Last Update Time: 6/12/2022, 9:01:52 AM_
 
 <dl>
   <dt>1位</dt>
@@ -34,7 +34,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14185?v=4" alt="hatena" width="36" height="36"><br>
     <a href="https://github.com/hatena/Hatena-Textbook/" ><b>hatena/Hatena-Textbook</b></a><br>
-    <i>☆ 2149</i><br>
+    <i>☆ 2150</i><br>
     はてな研修用教科書
   </dd>
   <dt>5位</dt>
@@ -55,14 +55,14 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1560</i><br>
+    <i>☆ 1561</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1369</i><br>
+    <i>☆ 1370</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 984</i><br>
+    <i>☆ 986</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>14位</dt>
@@ -111,7 +111,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1779073?u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" alt="Grabacr07" width="36" height="36"><br>
     <a href="https://github.com/Grabacr07/KanColleViewer/" ><b>Grabacr07/KanColleViewer</b></a><br>
-    <i>☆ 918</i><br>
+    <i>☆ 917</i><br>
     艦これブラウザーのようなもの
   </dd>
   <dt>16位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 596</i><br>
+    <i>☆ 597</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>24位</dt>
@@ -244,14 +244,14 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 478</i><br>
+    <i>☆ 479</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>35位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 472</i><br>
+    <i>☆ 473</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>36位</dt>
@@ -286,7 +286,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 437</i><br>
+    <i>☆ 438</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>41位</dt>
@@ -321,7 +321,7 @@ _Last Update Time: 6/11/2022, 9:01:59 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 393</i><br>
+    <i>☆ 394</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>46位</dt>
