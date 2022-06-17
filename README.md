@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 6/16/2022, 9:02:03 AM_
+_Last Update Time: 6/17/2022, 9:01:58 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 6990</i><br>
+    <i>☆ 6995</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,7 +27,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3127</i><br>
+    <i>☆ 3128</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2127</i><br>
+    <i>☆ 2129</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
@@ -62,14 +62,14 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1377</i><br>
+    <i>☆ 1380</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1324</i><br>
+    <i>☆ 1325</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>10位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 997</i><br>
+    <i>☆ 1002</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>14位</dt>
@@ -132,14 +132,14 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 656</i><br>
+    <i>☆ 657</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>19位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 643</i><br>
+    <i>☆ 644</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>20位</dt>
@@ -181,7 +181,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 583</i><br>
+    <i>☆ 585</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>26位</dt>
@@ -209,7 +209,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 547</i><br>
+    <i>☆ 549</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>30位</dt>
@@ -272,7 +272,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 457</i><br>
+    <i>☆ 459</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>39位</dt>
@@ -314,7 +314,7 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 405</i><br>
+    <i>☆ 407</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>45位</dt>
@@ -333,17 +333,17 @@ _Last Update Time: 6/16/2022, 9:02:03 AM_
   </dd>
   <dt>47位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
+    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
+    <i>☆ 376</i><br>
+    TypeScriptの入門書です。
+  </dd>
+  <dt>48位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/2605401?u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" alt="kenjinote" width="36" height="36"><br>
     <a href="https://github.com/kenjinote/cmdchat/" ><b>kenjinote/cmdchat</b></a><br>
     <i>☆ 374</i><br>
     コマンド プロンプト (チャット風)
-  </dd>
-  <dt>48位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
-    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 374</i><br>
-    TypeScriptの入門書です。
   </dd>
   <dt>49位</dt>
   <dd>
