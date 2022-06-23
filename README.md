@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 6/22/2022, 9:02:05 AM_
+_Last Update Time: 6/23/2022, 9:02:08 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7008</i><br>
+    <i>☆ 7010</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,7 +27,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3131</i><br>
+    <i>☆ 3132</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -41,14 +41,14 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2129</i><br>
+    <i>☆ 2131</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1957</i><br>
+    <i>☆ 1960</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -83,7 +83,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1147</i><br>
+    <i>☆ 1149</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>12位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1019</i><br>
+    <i>☆ 1022</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>14位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 754</i><br>
+    <i>☆ 753</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>18位</dt>
@@ -256,17 +256,17 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   </dd>
   <dt>36位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
+    <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
+    <i>☆ 472</i><br>
+    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
+  </dd>
+  <dt>37位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
     <i>☆ 466</i><br>
     Scala学習用テキスト
-  </dd>
-  <dt>37位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
-    <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 466</i><br>
-    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>38位</dt>
   <dd>
@@ -293,7 +293,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 433</i><br>
+    <i>☆ 432</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>42位</dt>
@@ -314,7 +314,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8783194?u=1f28ebcb7ba1bcdf7abfa9b775894affa6b050a8&v=4" alt="MasayaAoyama" width="36" height="36"><br>
     <a href="https://github.com/MasayaAoyama/kubernetes-perfect-guide/" ><b>MasayaAoyama/kubernetes-perfect-guide</b></a><br>
-    <i>☆ 407</i><br>
+    <i>☆ 406</i><br>
     『Kubernetes完全ガイド』の付録マニフェストのリポジトリ / "Kubernetes perfect guide" sample manifest repository
   </dd>
   <dt>45位</dt>
@@ -328,7 +328,7 @@ _Last Update Time: 6/22/2022, 9:02:05 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 382</i><br>
+    <i>☆ 384</i><br>
     TypeScriptの入門書です。
   </dd>
   <dt>47位</dt>
