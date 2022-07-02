@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 7/1/2022, 9:02:11 AM_
+_Last Update Time: 7/2/2022, 9:02:06 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7025</i><br>
+    <i>☆ 7027</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,14 +27,14 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3141</i><br>
+    <i>☆ 3142</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14185?v=4" alt="hatena" width="36" height="36"><br>
     <a href="https://github.com/hatena/Hatena-Textbook/" ><b>hatena/Hatena-Textbook</b></a><br>
-    <i>☆ 2152</i><br>
+    <i>☆ 2153</i><br>
     はてな研修用教科書
   </dd>
   <dt>5位</dt>
@@ -48,7 +48,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 1966</i><br>
+    <i>☆ 1967</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -62,7 +62,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=271108b10749ce37fd9c4300e9d41b12164595d5&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1407</i><br>
+    <i>☆ 1410</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1049</i><br>
+    <i>☆ 1051</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>14位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 760</i><br>
+    <i>☆ 762</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>18位</dt>
@@ -139,7 +139,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 649</i><br>
+    <i>☆ 651</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>20位</dt>
@@ -167,14 +167,14 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 600</i><br>
+    <i>☆ 601</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>24位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 597</i><br>
+    <i>☆ 598</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>25位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 580</i><br>
+    <i>☆ 581</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>27位</dt>
@@ -258,14 +258,14 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 474</i><br>
+    <i>☆ 475</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>37位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 466</i><br>
+    <i>☆ 467</i><br>
     Scala学習用テキスト
   </dd>
   <dt>38位</dt>
@@ -307,7 +307,7 @@ _Last Update Time: 7/1/2022, 9:02:11 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/29084?u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" alt="rosylilly" width="36" height="36"><br>
     <a href="https://github.com/rosylilly/git-tasukete/" ><b>rosylilly/git-tasukete</b></a><br>
-    <i>☆ 415</i><br>
+    <i>☆ 417</i><br>
     gitで助けて欲しい時に
   </dd>
   <dt>44位</dt>
