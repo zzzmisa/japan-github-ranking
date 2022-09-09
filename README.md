@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 9/8/2022, 9:02:19 AM_
+_Last Update Time: 9/9/2022, 9:02:00 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7170</i><br>
+    <i>☆ 7172</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -55,14 +55,14 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1827</i><br>
+    <i>☆ 1829</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1565</i><br>
+    <i>☆ 1566</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1162</i><br>
+    <i>☆ 1164</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>13位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/awesome-commit-english/" ><b>azu/awesome-commit-english</b></a><br>
-    <i>☆ 841</i><br>
+    <i>☆ 840</i><br>
     コミット英語についての記事まとめ
   </dd>
   <dt>17位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 676</i><br>
+    <i>☆ 678</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>21位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
-    <i>☆ 626</i><br>
+    <i>☆ 627</i><br>
     Unix系システムのプロセスについて日本語で解説しています
   </dd>
   <dt>24位</dt>
@@ -181,7 +181,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 609</i><br>
+    <i>☆ 610</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>26位</dt>
@@ -237,7 +237,7 @@ _Last Update Time: 9/8/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
-    <i>☆ 523</i><br>
+    <i>☆ 524</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
   <dt>34位</dt>
