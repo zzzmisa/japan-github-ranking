@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 10/1/2022, 9:02:19 AM_
+_Last Update Time: 10/2/2022, 9:02:06 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7230</i><br>
+    <i>☆ 7234</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
@@ -27,14 +27,14 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3220</i><br>
+    <i>☆ 3222</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2167</i><br>
+    <i>☆ 2168</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>5位</dt>
@@ -62,7 +62,7 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1622</i><br>
+    <i>☆ 1627</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
@@ -83,7 +83,7 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1203</i><br>
+    <i>☆ 1205</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>12位</dt>
@@ -132,7 +132,7 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 699</i><br>
+    <i>☆ 701</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>19位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
-    <i>☆ 628</i><br>
+    <i>☆ 630</i><br>
     Unix系システムのプロセスについて日本語で解説しています
   </dd>
   <dt>24位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 10/1/2022, 9:02:19 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 445</i><br>
+    <i>☆ 446</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>43位</dt>
