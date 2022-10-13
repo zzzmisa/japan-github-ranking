@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 10/12/2022, 9:02:16 AM_
+_Last Update Time: 10/13/2022, 9:02:20 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7271</i><br>
+    <i>☆ 7276</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6350</i><br>
+    <i>☆ 6352</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3248</i><br>
+    <i>☆ 3253</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -62,14 +62,14 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1647</i><br>
+    <i>☆ 1650</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1405</i><br>
+    <i>☆ 1406</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>10位</dt>
@@ -83,7 +83,7 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1220</i><br>
+    <i>☆ 1221</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>12位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 937</i><br>
+    <i>☆ 938</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -153,14 +153,14 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 674</i><br>
+    <i>☆ 675</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>22位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=ab47f131dcaf3ffe71bb89ff699fc9b1c3655659&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 660</i><br>
+    <i>☆ 661</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>23位</dt>
@@ -181,7 +181,7 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 614</i><br>
+    <i>☆ 613</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>26位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 549</i><br>
+    <i>☆ 550</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>31位</dt>
@@ -321,7 +321,7 @@ _Last Update Time: 10/12/2022, 9:02:16 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 421</i><br>
+    <i>☆ 422</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>46位</dt>
