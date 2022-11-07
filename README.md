@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 11/6/2022, 9:02:21 AM_
+_Last Update Time: 11/7/2022, 9:02:15 AM_
 
 <dl>
   <dt>1位</dt>
@@ -27,7 +27,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3270</i><br>
+    <i>☆ 3271</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -83,7 +83,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1242</i><br>
+    <i>☆ 1244</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>12位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=aaf53dabf95c6b6aad5ff06f96216d9cca68df12&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 939</i><br>
+    <i>☆ 940</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>15位</dt>
@@ -125,14 +125,14 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 805</i><br>
+    <i>☆ 804</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>18位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 731</i><br>
+    <i>☆ 732</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>19位</dt>
@@ -174,21 +174,21 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 624</i><br>
+    <i>☆ 625</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>25位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 615</i><br>
+    <i>☆ 616</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>26位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 613</i><br>
+    <i>☆ 614</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>27位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 562</i><br>
+    <i>☆ 564</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>31位</dt>
@@ -256,17 +256,17 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   </dd>
   <dt>36位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
+    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
+    <i>☆ 504</i><br>
+    TypeScriptの入門書です。
+  </dd>
+  <dt>37位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
     <i>☆ 504</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
-  </dd>
-  <dt>37位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
-    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 503</i><br>
-    TypeScriptの入門書です。
   </dd>
   <dt>38位</dt>
   <dd>
@@ -279,7 +279,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 471</i><br>
+    <i>☆ 472</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>40位</dt>
@@ -356,7 +356,7 @@ _Last Update Time: 11/6/2022, 9:02:21 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30512617?v=4" alt="kmiya-culti" width="36" height="36"><br>
     <a href="https://github.com/kmiya-culti/RLogin/" ><b>kmiya-culti/RLogin</b></a><br>
-    <i>☆ 384</i><br>
+    <i>☆ 385</i><br>
     RLoginは、Windows上で動作するターミナルソフトです
   </dd>
 </dl>
