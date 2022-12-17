@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 12/16/2022, 9:02:34 AM_
+_Last Update Time: 12/17/2022, 9:02:47 AM_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7438</i><br>
+    <i>☆ 7439</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6360</i><br>
+    <i>☆ 6361</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3308</i><br>
+    <i>☆ 3310</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>4位</dt>
@@ -48,28 +48,28 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 2162</i><br>
+    <i>☆ 2163</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 1882</i><br>
+    <i>☆ 1883</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 1778</i><br>
+    <i>☆ 1780</i><br>
     OBS ≧ 26.1用複数サイト同時配信プラグイン
   </dd>
   <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1442</i><br>
+    <i>☆ 1441</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>10位</dt>
@@ -83,14 +83,14 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1306</i><br>
+    <i>☆ 1308</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>12位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1183</i><br>
+    <i>☆ 1184</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>13位</dt>
@@ -139,7 +139,7 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 715</i><br>
+    <i>☆ 716</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>20位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 701</i><br>
+    <i>☆ 702</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>22位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 633</i><br>
+    <i>☆ 634</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>24位</dt>
@@ -181,21 +181,21 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 619</i><br>
+    <i>☆ 620</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>26位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 618</i><br>
+    <i>☆ 619</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 614</i><br>
+    <i>☆ 613</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>28位</dt>
@@ -209,7 +209,7 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 584</i><br>
+    <i>☆ 585</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>30位</dt>
@@ -328,7 +328,7 @@ _Last Update Time: 12/16/2022, 9:02:34 AM_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
     <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
-    <i>☆ 420</i><br>
+    <i>☆ 421</i><br>
     AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
   <dt>47位</dt>
