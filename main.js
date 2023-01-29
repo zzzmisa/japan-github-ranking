@@ -7,7 +7,7 @@ const { Octokit } = require('@octokit/core');
  * @return このアクションの出力。この出力は、JSON オブジェクトでなければなりません。
  */
 async function main(params) {
-  console.log(new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
+  console.log('Start at ' + new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
   const octokit = new Octokit({ auth: params.github_personal_access_token });
 
   const repos = await searchRepos(octokit, 100);
@@ -19,7 +19,7 @@ async function main(params) {
 
   //const fs = require('fs'); // デバッグ用
   //fs.writeFileSync('output.json', JSON.stringify(filteredRepos, null, '\t')) // デバッグ用
-  console.log(new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
+  console.log('Completed at ' + new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
   return { result: 'OK' };
 }
 

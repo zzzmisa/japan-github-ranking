@@ -6,11 +6,12 @@
   "scripts": {
     "start": "node start.js",
     "zip": "zip -r action.zip node_modules package.json main.js",
-    "deploy": "npm run zip && ibmcloud fn action update japanGithubRankingAction action.zip --param-file params.json --kind nodejs:12"
+    "deploy": "npm run zip && ibmcloud fn action update japanGithubRankingActionDev action.zip --param-file paramsDev.json --kind nodejs:16 --timeout 600000",
+    "deploy-prod": "npm run zip && ibmcloud fn action update japanGithubRankingAction action.zip --param-file params.json --kind nodejs:16 --timeout 600000"
   },
   "author": "zzzmisa",
   "dependencies": {
-    "@octokit/core": "^3.5.1"
+    "@octokit/core": "^3.6.0"
   },
   "prettier": {
     "singleQuote": true,

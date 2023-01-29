@@ -1,4 +1,5 @@
 node_modules/
 action.zip
 params.json
+paramsDev.json
 output.json
