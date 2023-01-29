@@ -1,5 +1,5 @@
 // TODO: newと▲マークの追加
-const { Octokit } = require('@octokit/core');
+const { App } = require('@octokit/app');
 
 /**
  * main() GitHubから日本語で書かれているっぽいリポジトリを取得・整形しランキング形式でアウトプット
@@ -8,13 +8,13 @@ const { Octokit } = require('@octokit/core');
  */
 async function main(params) {
   console.log('Start at ' + new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
-  const octokit = new Octokit({ auth: params.github_personal_access_token });
+  const githubApp = await setGithubApp(params.octokitInfo);
 
-  const repos = await searchRepos(octokit, 100);
-  const filteredRepos = await filterReposByReadme(octokit, repos);
+  const repos = await searchRepos(githubApp, 100);
+  const filteredRepos = await filterReposByReadme(githubApp, repos);
   await Promise.all([
-    updateReadme(octokit, filteredRepos.slice(0, 50), params),
-    newJsonFile(octokit, filteredRepos.slice(0, 50), params),
+    updateReadme(githubApp, filteredRepos.slice(0, 50), params),
+    newJsonFile(githubApp, filteredRepos.slice(0, 50), params),
   ]);
 
   //const fs = require('fs'); // デバッグ用
@@ -22,6 +22,22 @@ async function main(params) {
   console.log('Completed at ' + new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' }));
   return { result: 'OK' };
 }
+
+const setGithubApp = async (octokitInfo) => {
+  const app = new App({
+    appId: octokitInfo.appId,
+    privateKey: octokitInfo.privateKey,
+    oauth: {
+      clientId: octokitInfo.oauth.clientId,
+      clientSecret: octokitInfo.oauth.clientSecret,
+    },
+  });
+
+  const installationOctokit = await app.getInstallationOctokit(octokitInfo.installationId).catch((err) => {
+    throw err;
+  });
+  return installationOctokit;
+};
 
 /**
  * GitHubのSearch APIで、ひらがなが含まれているレポジトリを取得

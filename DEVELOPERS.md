@@ -12,16 +12,29 @@
 
 ```
 {
-  "github_personal_access_token": "ghp_xxxx",
+  "octokitInfo": {
+    "appId": "140258",
+    "privateKey": "-----BEGIN RSA PRIVATE KEY-----\nMI...Arc=\n-----END RSA PRIVATE KEY-----\n",
+    "oauth": {
+      "clientId": "Iv1.129...",
+      "clientSecret": "fc6..."
+    },
+    "installationId": "33617850"
+  },
   "output_repogitory_owner": "zzzmisa",
   "output_repository_name": "japan-github-ranking"
 }
 ```
 
-- `github_personal_access_token`
-  - [Personal access tokens](https://github.com/settings/tokens)で作成したトークン。出力先のレポジトリへの書き込み権限を付与しておく。公開リポジトリに書き込む場合は Select scopes で`public_repo`、プライベートリポジトリの場合は、`repo`全てを選択。
-- `output_repository_name`
-  - 出力先のレポジトリ名。予め作成しておく。
+GitHub App を作成し、出力先のレポジトリにインストールしておく。GitHub App には、Contents の Write 権限をつけておく。GitHub App や Installation の設定画面で確認した値を、`octokitInfo`のパラメーターに設定する。
+
+`octokitInfo.privateKey`は、 1 行形式に変えて設定する。
+
+```
+% awk 'NF {sub(/\r/, ""); printf "%s\\n",$0;}' japan-github-ranking-app.2023-xx-xx.private-key.pem > output.txt
+```
+
+`output_repository_name`に設定する出力先のレポジトリは、予め作成しておく。
 
 ### コマンド
 

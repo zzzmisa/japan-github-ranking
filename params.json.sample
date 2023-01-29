@@ -1,5 +1,13 @@
 {
-  "github_personal_access_token": "ghp_xxxx",
+  "octokitInfo": {
+    "appId": "140258",
+    "privateKey": "-----BEGIN RSA PRIVATE KEY-----\nMI...Arc=\n-----END RSA PRIVATE KEY-----\n",
+    "oauth": {
+      "clientId": "Iv1.129...",
+      "clientSecret": "fc6..."
+    },
+    "installationId": "33617850"
+  },
   "output_repogitory_owner": "zzzmisa",
   "output_repository_name": "japan-github-ranking"
 }
