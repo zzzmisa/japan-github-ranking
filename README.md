@@ -6,7 +6,7 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2023/4/15 9:03:23_
+_Last Update Time: 2023/4/16 9:03:25_
 
 <dl>
   <dt>1位</dt>
@@ -20,7 +20,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6332</i><br>
+    <i>☆ 6331</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
@@ -55,28 +55,28 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2090</i><br>
+    <i>☆ 2092</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2018</i><br>
+    <i>☆ 2019</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1664</i><br>
+    <i>☆ 1668</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1565</i><br>
+    <i>☆ 1567</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 861</i><br>
+    <i>☆ 864</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>17位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 668</i><br>
+    <i>☆ 669</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>25位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 651</i><br>
+    <i>☆ 654</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>27位</dt>
@@ -244,14 +244,14 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
     <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
-    <i>☆ 555</i><br>
+    <i>☆ 557</i><br>
     AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
   <dt>35位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1326777?v=4" alt="everyleaf" width="36" height="36"><br>
     <a href="https://github.com/everyleaf/el-training/" ><b>everyleaf/el-training</b></a><br>
-    <i>☆ 549</i><br>
+    <i>☆ 550</i><br>
     株式会社万葉の新入社員教育用カリキュラム
   </dd>
   <dt>36位</dt>
@@ -265,7 +265,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 538</i><br>
+    <i>☆ 544</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>38位</dt>
@@ -300,14 +300,14 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 473</i><br>
+    <i>☆ 474</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>43位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 468</i><br>
+    <i>☆ 467</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>44位</dt>
@@ -349,7 +349,7 @@ _Last Update Time: 2023/4/15 9:03:23_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/788611?u=fad0db461998be520536cfe3be0c41aace7a47aa&v=4" alt="whiteleaf7" width="36" height="36"><br>
     <a href="https://github.com/whiteleaf7/narou/" ><b>whiteleaf7/narou</b></a><br>
-    <i>☆ 409</i><br>
+    <i>☆ 410</i><br>
     Narou.rb - 小説家になろうのダウンローダ＆縦書き整形＆管理アプリ。Kindle（などの電子書籍端末）でなろうを読む場合に超便利です！
   </dd>
   <dt>50位</dt>
