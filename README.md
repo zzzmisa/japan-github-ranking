@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2023/5/6 9:03:07_
+_Last Update Time: 2023/5/7 9:03:07_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7642</i><br>
+    <i>☆ 7646</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/61609106?v=4" alt="tokyo-metropolitan-gov" width="36" height="36"><br>
     <a href="https://github.com/tokyo-metropolitan-gov/covid19/" ><b>tokyo-metropolitan-gov/covid19</b></a><br>
-    <i>☆ 6326</i><br>
+    <i>☆ 6323</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>3位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2234</i><br>
+    <i>☆ 2233</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2137</i><br>
+    <i>☆ 2142</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>8位</dt>
@@ -69,21 +69,21 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 1720</i><br>
+    <i>☆ 1722</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1581</i><br>
+    <i>☆ 1582</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1347</i><br>
+    <i>☆ 1346</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>12位</dt>
@@ -118,22 +118,22 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 898</i><br>
+    <i>☆ 900</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>17位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
+    <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
+    <i>☆ 872</i><br>
+    UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
+  </dd>
+  <dt>18位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
     <i>☆ 871</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
-  </dd>
-  <dt>18位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
-    <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 870</i><br>
-    UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>19位</dt>
   <dd>
@@ -146,7 +146,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 826</i><br>
+    <i>☆ 827</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>21位</dt>
@@ -167,14 +167,14 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=63af703ad24eb04fb9c478a8240c5dc19ef2649c&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 739</i><br>
+    <i>☆ 740</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>24位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 677</i><br>
+    <i>☆ 679</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 609</i><br>
+    <i>☆ 611</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>31位</dt>
@@ -237,7 +237,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
     <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
-    <i>☆ 581</i><br>
+    <i>☆ 582</i><br>
     AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
   <dt>34位</dt>
@@ -258,7 +258,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 550</i><br>
+    <i>☆ 552</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>37位</dt>
@@ -293,7 +293,7 @@ _Last Update Time: 2023/5/6 9:03:07_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 480</i><br>
+    <i>☆ 482</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>42位</dt>
