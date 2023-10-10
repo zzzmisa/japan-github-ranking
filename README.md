@@ -6,49 +6,49 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2023/10/9 9:03:31_
+_Last Update Time: 2023/10/10 9:03:42_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 11625</i><br>
+    <i>☆ 11650</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7822</i><br>
+    <i>☆ 7824</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6301</i><br>
+    <i>☆ 6302</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3656</i><br>
+    <i>☆ 3657</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 2557</i><br>
+    <i>☆ 2560</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=0ed650c3fba75176eb691735df40039b73a05f02&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2537</i><br>
+    <i>☆ 2542</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>7位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2120</i><br>
+    <i>☆ 2121</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>10位</dt>
@@ -132,7 +132,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 934</i><br>
+    <i>☆ 936</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>19位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 873</i><br>
+    <i>☆ 874</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>21位</dt>
@@ -160,7 +160,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 836</i><br>
+    <i>☆ 837</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>23位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 712</i><br>
+    <i>☆ 714</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>27位</dt>
@@ -223,7 +223,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 646</i><br>
+    <i>☆ 647</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>32位</dt>
@@ -265,7 +265,7 @@ _Last Update Time: 2023/10/9 9:03:31_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 566</i><br>
+    <i>☆ 567</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>38位</dt>
