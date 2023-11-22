@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 title: Japan GitHub Ranking
-google_analytics: G-140YPX00VR
-google_adsense: ca-pub-1954319019035310
+google_tag_manager: GTM-M5SJDZ36
 defaults:
   - scope:
       path: ''
