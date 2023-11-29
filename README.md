@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2023/11/28 9:03:51_
+_Last Update Time: 2023/11/29 9:03:55_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 12758</i><br>
+    <i>☆ 12767</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2696</i><br>
+    <i>☆ 2700</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -69,14 +69,14 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2144</i><br>
+    <i>☆ 2146</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2038</i><br>
+    <i>☆ 2039</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>11位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 873</i><br>
+    <i>☆ 874</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>22位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 821</i><br>
+    <i>☆ 820</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>24位</dt>
@@ -202,7 +202,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 724</i><br>
+    <i>☆ 725</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>29位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 659</i><br>
+    <i>☆ 661</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>31位</dt>
@@ -237,7 +237,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
-    <i>☆ 646</i><br>
+    <i>☆ 647</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
   <dt>34位</dt>
@@ -286,7 +286,7 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
-    <i>☆ 558</i><br>
+    <i>☆ 559</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
   <dt>41位</dt>
@@ -349,14 +349,14 @@ _Last Update Time: 2023/11/28 9:03:51_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 461</i><br>
+    <i>☆ 462</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>50位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
-    <i>☆ 460</i><br>
+    <i>☆ 461</i><br>
     拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
 </dl>
