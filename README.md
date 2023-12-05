@@ -6,49 +6,49 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2023/12/3 9:03:40_
+_Last Update Time: 2023/12/5 9:03:58_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 12830</i><br>
+    <i>☆ 12864</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 7871</i><br>
+    <i>☆ 7872</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6288</i><br>
+    <i>☆ 6287</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3714</i><br>
+    <i>☆ 3717</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2706</i><br>
+    <i>☆ 2707</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 2635</i><br>
+    <i>☆ 2638</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -69,21 +69,21 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2150</i><br>
+    <i>☆ 2148</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2046</i><br>
+    <i>☆ 2049</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1745</i><br>
+    <i>☆ 1751</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
@@ -104,21 +104,21 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1086</i><br>
+    <i>☆ 1085</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>15位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
-    <i>☆ 1085</i><br>
+    <i>☆ 1083</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
   </dd>
   <dt>16位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1006</i><br>
+    <i>☆ 1007</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>17位</dt>
@@ -146,14 +146,14 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 898</i><br>
+    <i>☆ 900</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>21位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 877</i><br>
+    <i>☆ 876</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>22位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 821</i><br>
+    <i>☆ 822</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>24位</dt>
@@ -216,14 +216,14 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 662</i><br>
+    <i>☆ 663</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>31位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 648</i><br>
+    <i>☆ 649</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>32位</dt>
@@ -237,14 +237,14 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 646</i><br>
+    <i>☆ 645</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>34位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
-    <i>☆ 639</i><br>
+    <i>☆ 638</i><br>
     Unix系システムのプロセスについて日本語で解説しています
   </dd>
   <dt>35位</dt>
@@ -263,17 +263,17 @@ _Last Update Time: 2023/12/3 9:03:40_
   </dd>
   <dt>37位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
+    <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
+    <i>☆ 567</i><br>
+    RDBMS のしくみを学ぶための小さな RDBMS 実装
+  </dd>
+  <dt>38位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
     <i>☆ 567</i><br>
     一週間でなれる！スパコンプログラマ
-  </dd>
-  <dt>38位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
-    <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 566</i><br>
-    RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>39位</dt>
   <dd>
@@ -293,7 +293,7 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 529</i><br>
+    <i>☆ 530</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>42位</dt>
@@ -314,7 +314,7 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 498</i><br>
+    <i>☆ 500</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>45位</dt>
@@ -328,14 +328,14 @@ _Last Update Time: 2023/12/3 9:03:40_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/56027326?v=4" alt="scala-text" width="36" height="36"><br>
     <a href="https://github.com/scala-text/scala_text/" ><b>scala-text/scala_text</b></a><br>
-    <i>☆ 482</i><br>
+    <i>☆ 483</i><br>
     Scala学習用テキスト
   </dd>
   <dt>47位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 475</i><br>
+    <i>☆ 483</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>48位</dt>
@@ -347,16 +347,16 @@ _Last Update Time: 2023/12/3 9:03:40_
   </dd>
   <dt>49位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
+    <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
+    <i>☆ 463</i><br>
+    拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
+  </dd>
+  <dt>50位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/8117824?v=4" alt="lodge" width="36" height="36"><br>
     <a href="https://github.com/lodge/lodge/" ><b>lodge/lodge</b></a><br>
     <i>☆ 462</i><br>
     イントラネット内で誰でも構築できる情報共有サービス
-  </dd>
-  <dt>50位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
-    <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
-    <i>☆ 462</i><br>
-    拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
 </dl>
