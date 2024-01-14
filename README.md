@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/1/13 9:03:46_
+_Last Update Time: 2024/1/14 9:03:29_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 13491</i><br>
+    <i>☆ 13506</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2024/1/13 9:03:46_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3764</i><br>
+    <i>☆ 3765</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 2831</i><br>
+    <i>☆ 2836</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -60,17 +60,17 @@ _Last Update Time: 2024/1/13 9:03:46_
   </dd>
   <dt>8位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
+    <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
+    <i>☆ 2173</i><br>
+    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
+  </dd>
+  <dt>9位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/14185?v=4" alt="hatena" width="36" height="36"><br>
     <a href="https://github.com/hatena/Hatena-Textbook/" ><b>hatena/Hatena-Textbook</b></a><br>
     <i>☆ 2172</i><br>
     はてな研修用教科書
-  </dd>
-  <dt>9位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
-    <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2169</i><br>
-    無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>10位</dt>
   <dd>
@@ -83,7 +83,7 @@ _Last Update Time: 2024/1/13 9:03:46_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1779</i><br>
+    <i>☆ 1780</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
@@ -132,7 +132,7 @@ _Last Update Time: 2024/1/13 9:03:46_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 961</i><br>
+    <i>☆ 963</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>19位</dt>
@@ -244,7 +244,7 @@ _Last Update Time: 2024/1/13 9:03:46_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 645</i><br>
+    <i>☆ 646</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>35位</dt>
@@ -256,17 +256,17 @@ _Last Update Time: 2024/1/13 9:03:46_
   </dd>
   <dt>36位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
+    <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
+    <i>☆ 574</i><br>
+    RDBMS のしくみを学ぶための小さな RDBMS 実装
+  </dd>
+  <dt>37位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
     <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
     <i>☆ 573</i><br>
     おめシスのホームページを作りたい
-  </dd>
-  <dt>37位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
-    <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 573</i><br>
-    RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>38位</dt>
   <dd>
@@ -284,17 +284,17 @@ _Last Update Time: 2024/1/13 9:03:46_
   </dd>
   <dt>40位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
+    <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
+    <i>☆ 561</i><br>
+    日本語LLMまとめ - Overview of Japanese LLMs
+  </dd>
+  <dt>41位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
     <i>☆ 560</i><br>
     『アジャイルサムライ』のサポートページです
-  </dd>
-  <dt>41位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
-    <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 559</i><br>
-    日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>42位</dt>
   <dd>
@@ -321,7 +321,7 @@ _Last Update Time: 2024/1/13 9:03:46_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 506</i><br>
+    <i>☆ 507</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>46位</dt>
