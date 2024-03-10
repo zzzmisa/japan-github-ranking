@@ -1,8 +1,8 @@
 {
   "name": "japan-git-ranking",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Ranking of GitHub repositories written in Japanese",
-  "main": "main.js",
+  "main": "start.js",
   "scripts": {
     "start": "node start.js",
     "zip": "zip -r action.zip node_modules package.json main.js",

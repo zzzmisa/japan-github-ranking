@@ -1,3 +1,3 @@
 const f = require('./main.js');
-const params = require('./params.json');
+const params = JSON.parse(process.env.PARAMS);
 f.main(params);
