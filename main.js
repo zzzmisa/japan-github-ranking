@@ -12,10 +12,8 @@ async function main(params) {
 
   const repos = await searchRepos(githubApp, 100);
   const filteredRepos = await filterReposByReadme(githubApp, repos);
-  await Promise.all([
-    updateReadme(githubApp, filteredRepos.slice(0, 50), params),
-    newJsonFile(githubApp, filteredRepos.slice(0, 50), params),
-  ]);
+  await updateReadme(githubApp, filteredRepos.slice(0, 50), params);
+  await newJsonFile(githubApp, filteredRepos.slice(0, 50), params);
 
   //const fs = require('fs'); // デバッグ用
   //fs.writeFileSync('output.json', JSON.stringify(filteredRepos, null, '\t')) // デバッグ用
