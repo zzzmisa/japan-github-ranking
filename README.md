@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/8/3 10:07:33_
+_Last Update Time: 2024/8/4 10:13:51_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 15572</i><br>
+    <i>☆ 15573</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8021</i><br>
+    <i>☆ 8019</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -41,21 +41,21 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3344</i><br>
+    <i>☆ 3346</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 3003</i><br>
+    <i>☆ 3004</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2426</i><br>
+    <i>☆ 2427</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1260</i><br>
+    <i>☆ 1261</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>14位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 999</i><br>
+    <i>☆ 998</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>21位</dt>
@@ -160,7 +160,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 928</i><br>
+    <i>☆ 929</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>23位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 800</i><br>
+    <i>☆ 801</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>31位</dt>
@@ -230,7 +230,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 714</i><br>
+    <i>☆ 715</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>33位</dt>
@@ -244,7 +244,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 683</i><br>
+    <i>☆ 682</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>35位</dt>
@@ -258,7 +258,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 660</i><br>
+    <i>☆ 661</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>37位</dt>
@@ -272,7 +272,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
-    <i>☆ 648</i><br>
+    <i>☆ 647</i><br>
     Unix系システムのプロセスについて日本語で解説しています
   </dd>
   <dt>39位</dt>
@@ -307,21 +307,21 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
-    <i>☆ 569</i><br>
+    <i>☆ 570</i><br>
     拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>44位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 569</i><br>
+    <i>☆ 570</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>45位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
-    <i>☆ 568</i><br>
+    <i>☆ 567</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
   <dt>46位</dt>
@@ -335,7 +335,7 @@ _Last Update Time: 2024/8/3 10:07:33_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8931462?v=4" alt="aws-samples" width="36" height="36"><br>
     <a href="https://github.com/aws-samples/generative-ai-use-cases-jp/" ><b>aws-samples/generative-ai-use-cases-jp</b></a><br>
-    <i>☆ 558</i><br>
+    <i>☆ 563</i><br>
     すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
   </dd>
   <dt>48位</dt>
@@ -347,16 +347,16 @@ _Last Update Time: 2024/8/3 10:07:33_
   </dd>
   <dt>49位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
+    <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
+    <i>☆ 522</i><br>
+    MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
+  </dd>
+  <dt>50位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/12104?v=4" alt="masuidrive" width="36" height="36"><br>
     <a href="https://github.com/masuidrive/miyamoto/" ><b>masuidrive/miyamoto</b></a><br>
     <i>☆ 521</i><br>
     Google Apps Scriptで書かれたSlack用勤怠管理Botの「みやもとさん」
-  </dd>
-  <dt>50位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
-    <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
-    <i>☆ 520</i><br>
-    MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
   </dd>
 </dl>
