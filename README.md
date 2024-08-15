@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/8/14 10:10:14_
+_Last Update Time: 2024/8/15 10:06:45_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 15678</i><br>
+    <i>☆ 15688</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3978</i><br>
+    <i>☆ 3976</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3375</i><br>
+    <i>☆ 3376</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2439</i><br>
+    <i>☆ 2440</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2288</i><br>
+    <i>☆ 2289</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>10位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/172281510?v=4" alt="takahiroanno2024" width="36" height="36"><br>
     <a href="https://github.com/takahiroanno2024/election2024/" ><b>takahiroanno2024/election2024</b></a><br>
-    <i>☆ 1144</i><br>
+    <i>☆ 1145</i><br>
     東京都知事選2024のリポジトリ
   </dd>
   <dt>17位</dt>
@@ -160,7 +160,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 927</i><br>
+    <i>☆ 928</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>23位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 905</i><br>
+    <i>☆ 907</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>25位</dt>
@@ -188,7 +188,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 844</i><br>
+    <i>☆ 842</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>27位</dt>
@@ -207,17 +207,17 @@ _Last Update Time: 2024/8/14 10:10:14_
   </dd>
   <dt>29位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
+    <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
+    <i>☆ 807</i><br>
+    2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
+  </dd>
+  <dt>30位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
     <i>☆ 805</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
-  </dd>
-  <dt>30位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
-    <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 805</i><br>
-    2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>31位</dt>
   <dd>
@@ -251,7 +251,7 @@ _Last Update Time: 2024/8/14 10:10:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 676</i><br>
+    <i>☆ 677</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>36位</dt>
