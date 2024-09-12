@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/9/11 10:13:39_
+_Last Update Time: 2024/9/12 10:13:51_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 15941</i><br>
+    <i>☆ 15952</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -27,28 +27,28 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6262</i><br>
+    <i>☆ 6261</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 3996</i><br>
+    <i>☆ 3997</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3444</i><br>
+    <i>☆ 3447</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 3049</i><br>
+    <i>☆ 3051</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2298</i><br>
+    <i>☆ 2300</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>10位</dt>
@@ -97,14 +97,14 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1318</i><br>
+    <i>☆ 1319</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>14位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1282</i><br>
+    <i>☆ 1283</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>15位</dt>
@@ -118,7 +118,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/172281510?v=4" alt="takahiroanno2024" width="36" height="36"><br>
     <a href="https://github.com/takahiroanno2024/election2024/" ><b>takahiroanno2024/election2024</b></a><br>
-    <i>☆ 1154</i><br>
+    <i>☆ 1155</i><br>
     東京都知事選2024のリポジトリ
   </dd>
   <dt>17位</dt>
@@ -160,14 +160,14 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 946</i><br>
+    <i>☆ 947</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>23位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 936</i><br>
+    <i>☆ 938</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>24位</dt>
@@ -207,17 +207,17 @@ _Last Update Time: 2024/9/11 10:13:39_
   </dd>
   <dt>29位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
+    <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
+    <i>☆ 809</i><br>
+    拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
+  </dd>
+  <dt>30位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
     <i>☆ 809</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
-  </dd>
-  <dt>30位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
-    <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 808</i><br>
-    拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>31位</dt>
   <dd>
@@ -237,7 +237,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 706</i><br>
+    <i>☆ 708</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>34位</dt>
@@ -258,7 +258,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 678</i><br>
+    <i>☆ 680</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>37位</dt>
@@ -279,7 +279,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
-    <i>☆ 640</i><br>
+    <i>☆ 639</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
   <dt>40位</dt>
@@ -293,7 +293,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8931462?v=4" alt="aws-samples" width="36" height="36"><br>
     <a href="https://github.com/aws-samples/generative-ai-use-cases-jp/" ><b>aws-samples/generative-ai-use-cases-jp</b></a><br>
-    <i>☆ 606</i><br>
+    <i>☆ 608</i><br>
     すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
   </dd>
   <dt>42位</dt>
@@ -321,7 +321,7 @@ _Last Update Time: 2024/9/11 10:13:39_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
-    <i>☆ 574</i><br>
+    <i>☆ 575</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
   <dt>46位</dt>
