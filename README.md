@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/10/19 10:16:22_
+_Last Update Time: 2024/10/20 10:23:20_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 16251</i><br>
+    <i>☆ 16255</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8070</i><br>
+    <i>☆ 8072</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6262</i><br>
+    <i>☆ 6261</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
@@ -41,14 +41,14 @@ _Last Update Time: 2024/10/19 10:16:22_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3520</i><br>
+    <i>☆ 3521</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 3114</i><br>
+    <i>☆ 3116</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -216,7 +216,7 @@ _Last Update Time: 2024/10/19 10:16:22_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 836</i><br>
+    <i>☆ 837</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>31位</dt>
@@ -237,14 +237,14 @@ _Last Update Time: 2024/10/19 10:16:22_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 768</i><br>
+    <i>☆ 769</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>34位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 738</i><br>
+    <i>☆ 739</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>35位</dt>
@@ -279,7 +279,7 @@ _Last Update Time: 2024/10/19 10:16:22_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8931462?v=4" alt="aws-samples" width="36" height="36"><br>
     <a href="https://github.com/aws-samples/generative-ai-use-cases-jp/" ><b>aws-samples/generative-ai-use-cases-jp</b></a><br>
-    <i>☆ 651</i><br>
+    <i>☆ 652</i><br>
     すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
   </dd>
   <dt>40位</dt>
@@ -300,14 +300,14 @@ _Last Update Time: 2024/10/19 10:16:22_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
-    <i>☆ 613</i><br>
+    <i>☆ 614</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
   <dt>43位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 600</i><br>
+    <i>☆ 601</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>44位</dt>
