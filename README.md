@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/11/8 10:16:14_
+_Last Update Time: 2024/11/9 10:14:32_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 16387</i><br>
+    <i>☆ 16390</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8079</i><br>
+    <i>☆ 8078</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3563</i><br>
+    <i>☆ 3568</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,35 +55,35 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2510</i><br>
+    <i>☆ 2511</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
+  <dd>
+    <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
+    <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
+    <i>☆ 2342</i><br>
+    データサイエンス100本ノック（構造化データ加工編）
+  </dd>
+  <dt>9位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
     <i>☆ 2340</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
-  <dt>9位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
-    <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2339</i><br>
-    データサイエンス100本ノック（構造化データ加工編）
-  </dd>
   <dt>10位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/14185?v=4" alt="hatena" width="36" height="36"><br>
     <a href="https://github.com/hatena/Hatena-Textbook/" ><b>hatena/Hatena-Textbook</b></a><br>
-    <i>☆ 2167</i><br>
+    <i>☆ 2168</i><br>
     はてな研修用教科書
   </dd>
   <dt>11位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 1996</i><br>
+    <i>☆ 1997</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>12位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1312</i><br>
+    <i>☆ 1313</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>15位</dt>
@@ -118,14 +118,14 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/172281510?v=4" alt="takahiroanno2024" width="36" height="36"><br>
     <a href="https://github.com/takahiroanno2024/election2024/" ><b>takahiroanno2024/election2024</b></a><br>
-    <i>☆ 1154</i><br>
+    <i>☆ 1155</i><br>
     東京都知事選2024のリポジトリ
   </dd>
   <dt>17位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/40289887?v=4" alt="sakura-cooking" width="36" height="36"><br>
     <a href="https://github.com/sakura-cooking/takoyaki/" ><b>sakura-cooking/takoyaki</b></a><br>
-    <i>☆ 1150</i><br>
+    <i>☆ 1151</i><br>
      さくらインターネット秘伝のたこ焼きレシピ
   </dd>
   <dt>18位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 958</i><br>
+    <i>☆ 959</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
@@ -188,14 +188,14 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 867</i><br>
+    <i>☆ 868</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 852</i><br>
+    <i>☆ 851</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>28位</dt>
@@ -230,7 +230,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 805</i><br>
+    <i>☆ 806</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>33位</dt>
@@ -265,7 +265,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 694</i><br>
+    <i>☆ 695</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
   <dt>38位</dt>
@@ -307,7 +307,7 @@ _Last Update Time: 2024/11/8 10:16:14_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 605</i><br>
+    <i>☆ 604</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>44位</dt>
