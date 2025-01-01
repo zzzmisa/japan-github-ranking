@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2024/12/31 10:17:04_
+_Last Update Time: 2025/1/1 10:23:36_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 16816</i><br>
+    <i>☆ 16824</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3678</i><br>
+    <i>☆ 3682</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2347</i><br>
+    <i>☆ 2348</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>10位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1431</i><br>
+    <i>☆ 1432</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 978</i><br>
+    <i>☆ 979</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
@@ -186,17 +186,17 @@ _Last Update Time: 2024/12/31 10:17:04_
   </dd>
   <dt>26位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
+    <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
+    <i>☆ 885</i><br>
+    AIを使ったリアルタイムボイスチェンジャー(Trainer)
+  </dd>
+  <dt>27位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
     <i>☆ 884</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
-  </dd>
-  <dt>27位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
-    <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
-    <i>☆ 884</i><br>
-    AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
   <dt>28位</dt>
   <dd>
@@ -251,7 +251,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8931462?v=4" alt="aws-samples" width="36" height="36"><br>
     <a href="https://github.com/aws-samples/generative-ai-use-cases-jp/" ><b>aws-samples/generative-ai-use-cases-jp</b></a><br>
-    <i>☆ 750</i><br>
+    <i>☆ 751</i><br>
     すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装
   </dd>
   <dt>36位</dt>
@@ -265,7 +265,7 @@ _Last Update Time: 2024/12/31 10:17:04_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 717</i><br>
+    <i>☆ 716</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>38位</dt>
