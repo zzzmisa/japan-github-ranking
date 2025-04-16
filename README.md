@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2025/4/15 10:26:29_
+_Last Update Time: 2025/4/16 10:25:39_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 17744</i><br>
+    <i>☆ 17750</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8144</i><br>
+    <i>☆ 8145</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4242</i><br>
+    <i>☆ 4243</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 3937</i><br>
+    <i>☆ 3939</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,14 +55,14 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2697</i><br>
+    <i>☆ 2699</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2434</i><br>
+    <i>☆ 2435</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>9位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1487</i><br>
+    <i>☆ 1488</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/172281510?v=4" alt="takahiroanno2024" width="36" height="36"><br>
     <a href="https://github.com/takahiroanno2024/election2024/" ><b>takahiroanno2024/election2024</b></a><br>
-    <i>☆ 1174</i><br>
+    <i>☆ 1175</i><br>
     東京都知事選2024のリポジトリ
   </dd>
   <dt>18位</dt>
@@ -139,7 +139,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1135</i><br>
+    <i>☆ 1137</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>20位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
-    <i>☆ 1078</i><br>
+    <i>☆ 1077</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
   </dd>
   <dt>22位</dt>
@@ -167,7 +167,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 1016</i><br>
+    <i>☆ 1017</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>24位</dt>
@@ -195,7 +195,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 906</i><br>
+    <i>☆ 907</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>28位</dt>
@@ -286,7 +286,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 646</i><br>
+    <i>☆ 647</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>41位</dt>
@@ -356,7 +356,7 @@ _Last Update Time: 2025/4/15 10:26:29_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/788611?u=fad0db461998be520536cfe3be0c41aace7a47aa&v=4" alt="whiteleaf7" width="36" height="36"><br>
     <a href="https://github.com/whiteleaf7/narou/" ><b>whiteleaf7/narou</b></a><br>
-    <i>☆ 546</i><br>
+    <i>☆ 547</i><br>
     Narou.rb - 小説家になろうのダウンローダ＆縦書き整形＆管理アプリ。Kindle（などの電子書籍端末）でなろうを読む場合に超便利です！
   </dd>
 </dl>
