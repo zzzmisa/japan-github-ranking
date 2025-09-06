@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2025/9/5 10:22:58_
+_Last Update Time: 2025/9/6 10:20:46_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 18734</i><br>
+    <i>☆ 18736</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8180</i><br>
+    <i>☆ 8179</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4420</i><br>
+    <i>☆ 4421</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4296</i><br>
+    <i>☆ 4295</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2869</i><br>
+    <i>☆ 2871</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -90,14 +90,14 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1743</i><br>
+    <i>☆ 1744</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1528</i><br>
+    <i>☆ 1530</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>14位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1217</i><br>
+    <i>☆ 1218</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>18位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 1096</i><br>
+    <i>☆ 1097</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>22位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
-    <i>☆ 999</i><br>
+    <i>☆ 1000</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
   <dt>25位</dt>
@@ -188,14 +188,14 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 983</i><br>
+    <i>☆ 985</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 960</i><br>
+    <i>☆ 961</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>28位</dt>
@@ -209,7 +209,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
     <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
-    <i>☆ 913</i><br>
+    <i>☆ 912</i><br>
     AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
   <dt>30位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 814</i><br>
+    <i>☆ 815</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>36位</dt>
@@ -335,7 +335,7 @@ _Last Update Time: 2025/9/5 10:22:58_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
-    <i>☆ 594</i><br>
+    <i>☆ 595</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
   <dt>48位</dt>
