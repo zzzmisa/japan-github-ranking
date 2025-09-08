@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2025/9/7 10:28:08_
+_Last Update Time: 2025/9/8 10:26:49_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 18744</i><br>
+    <i>☆ 18752</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8179</i><br>
+    <i>☆ 8178</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4421</i><br>
+    <i>☆ 4422</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4295</i><br>
+    <i>☆ 4294</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2872</i><br>
+    <i>☆ 2874</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/10266070?v=4" alt="asciidwango" width="36" height="36"><br>
     <a href="https://github.com/asciidwango/js-primer/" ><b>asciidwango/js-primer</b></a><br>
-    <i>☆ 2398</i><br>
+    <i>☆ 2399</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>10位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1530</i><br>
+    <i>☆ 1531</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>14位</dt>
@@ -111,7 +111,7 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3874767?u=665bc1a54636f9bd16427647f8b20606c42a9764&v=4" alt="greymd" width="36" height="36"><br>
     <a href="https://github.com/greymd/ojichat/" ><b>greymd/ojichat</b></a><br>
-    <i>☆ 1264</i><br>
+    <i>☆ 1265</i><br>
     おじさんがLINEやメールで送ってきそうな文を生成する
   </dd>
   <dt>16位</dt>
@@ -125,7 +125,7 @@ _Last Update Time: 2025/9/7 10:28:08_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1218</i><br>
+    <i>☆ 1219</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>18位</dt>
