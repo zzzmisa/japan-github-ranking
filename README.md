@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2025/11/6 10:29:11_
+_Last Update Time: 2025/11/7 10:28:37_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 19083</i><br>
+    <i>☆ 19089</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8190</i><br>
+    <i>☆ 8189</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4522</i><br>
+    <i>☆ 4524</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4435</i><br>
+    <i>☆ 4445</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2929</i><br>
+    <i>☆ 2931</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 2215</i><br>
+    <i>☆ 2216</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -97,7 +97,7 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1554</i><br>
+    <i>☆ 1555</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>14位</dt>
@@ -111,7 +111,7 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1311</i><br>
+    <i>☆ 1312</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>16位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 2025/11/6 10:29:11_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 1183</i><br>
+    <i>☆ 1184</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>21位</dt>
@@ -172,191 +172,191 @@ _Last Update Time: 2025/11/6 10:29:11_
   </dd>
   <dt>24位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
+    <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
+    <i>☆ 1032</i><br>
+    YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
+  </dd>
+  <dt>25位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
     <i>☆ 1011</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
-  <dt>25位</dt>
+  <dt>26位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 1009</i><br>
+    <i>☆ 1010</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
-  <dt>26位</dt>
+  <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=4fa81496ae85a64194a813bd2b1201a742f8a286&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
     <i>☆ 995</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
-  <dt>27位</dt>
+  <dt>28位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 992</i><br>
+    <i>☆ 993</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
-  <dt>28位</dt>
+  <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 935</i><br>
+    <i>☆ 936</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
-  <dt>29位</dt>
+  <dt>30位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/73059259?u=200e5bfff4f60d52157a4688976d4789dddd7974&v=4" alt="isletennos" width="36" height="36"><br>
     <a href="https://github.com/isletennos/MMVC_Trainer/" ><b>isletennos/MMVC_Trainer</b></a><br>
     <i>☆ 921</i><br>
     AIを使ったリアルタイムボイスチェンジャー(Trainer)
   </dd>
-  <dt>30位</dt>
+  <dt>31位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1779073?u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" alt="Grabacr07" width="36" height="36"><br>
     <a href="https://github.com/Grabacr07/KanColleViewer/" ><b>Grabacr07/KanColleViewer</b></a><br>
     <i>☆ 911</i><br>
     艦これブラウザーのようなもの
   </dd>
-  <dt>31位</dt>
+  <dt>32位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=63af703ad24eb04fb9c478a8240c5dc19ef2649c&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
     <i>☆ 872</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
-  <dt>32位</dt>
+  <dt>33位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
     <i>☆ 868</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
-  <dt>33位</dt>
+  <dt>34位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/awesome-commit-english/" ><b>azu/awesome-commit-english</b></a><br>
     <i>☆ 856</i><br>
     コミット英語についての記事まとめ
   </dd>
-  <dt>34位</dt>
+  <dt>35位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
     <i>☆ 833</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
-  <dt>35位</dt>
+  <dt>36位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
     <i>☆ 827</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
-  <dt>36位</dt>
+  <dt>37位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
     <i>☆ 800</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
-  <dt>37位</dt>
+  <dt>38位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
     <i>☆ 745</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
-  <dt>38位</dt>
+  <dt>39位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1335564?u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" alt="kaityo256" width="36" height="36"><br>
     <a href="https://github.com/kaityo256/sevendayshpc/" ><b>kaityo256/sevendayshpc</b></a><br>
-    <i>☆ 721</i><br>
+    <i>☆ 722</i><br>
     一週間でなれる！スパコンプログラマ
   </dd>
-  <dt>39位</dt>
+  <dt>40位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
     <i>☆ 698</i><br>
     拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
-  <dt>40位</dt>
+  <dt>41位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
     <i>☆ 687</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
-  <dt>41位</dt>
+  <dt>42位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
     <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
     <i>☆ 676</i><br>
     MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
   </dd>
-  <dt>42位</dt>
+  <dt>43位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/11802682?v=4" alt="gcpug" width="36" height="36"><br>
     <a href="https://github.com/gcpug/nouhau/" ><b>gcpug/nouhau</b></a><br>
     <i>☆ 659</i><br>
     Google Cloud Platformのノウハウを共有するRepository
   </dd>
-  <dt>43位</dt>
+  <dt>44位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/876988?v=4" alt="Shinpeim" width="36" height="36"><br>
     <a href="https://github.com/Shinpeim/process-book/" ><b>Shinpeim/process-book</b></a><br>
     <i>☆ 657</i><br>
     Unix系システムのプロセスについて日本語で解説しています
   </dd>
-  <dt>44位</dt>
+  <dt>45位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/239637?u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" alt="KOBA789" width="36" height="36"><br>
     <a href="https://github.com/KOBA789/relly/" ><b>KOBA789/relly</b></a><br>
     <i>☆ 649</i><br>
     RDBMS のしくみを学ぶための小さな RDBMS 実装
   </dd>
-  <dt>45位</dt>
+  <dt>46位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/647810?u=3406fe9ade2ecf4003357db4148281325d1ee21a&v=4" alt="amate" width="36" height="36"><br>
     <a href="https://github.com/amate/UmaUmaCruise/" ><b>amate/UmaUmaCruise</b></a><br>
     <i>☆ 632</i><br>
     このソフトは、自動でDMM版ウマ娘のウィンドウから、イベント選択肢の効果を知るために作られました
   </dd>
-  <dt>46位</dt>
+  <dt>47位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
     <i>☆ 607</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
-  <dt>47位</dt>
+  <dt>48位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
     <i>☆ 601</i><br>
     Mirakurun を使用した録画管理ソフト
   </dd>
-  <dt>48位</dt>
+  <dt>49位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/778682?v=4" alt="agile-samurai-ja" width="36" height="36"><br>
     <a href="https://github.com/agile-samurai-ja/support/" ><b>agile-samurai-ja/support</b></a><br>
     <i>☆ 582</i><br>
     『アジャイルサムライ』のサポートページです
   </dd>
-  <dt>49位</dt>
+  <dt>50位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/788611?u=fad0db461998be520536cfe3be0c41aace7a47aa&v=4" alt="whiteleaf7" width="36" height="36"><br>
     <a href="https://github.com/whiteleaf7/narou/" ><b>whiteleaf7/narou</b></a><br>
     <i>☆ 578</i><br>
     Narou.rb - 小説家になろうのダウンローダ＆縦書き整形＆管理アプリ。Kindle（などの電子書籍端末）でなろうを読む場合に超便利です！
-  </dd>
-  <dt>50位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/37191619?u=e4adbe85f4a7a1911571539724b9087fd31c8778&v=4" alt="omegasisters" width="36" height="36"><br>
-    <a href="https://github.com/omegasisters/homepage/" ><b>omegasisters/homepage</b></a><br>
-    <i>☆ 577</i><br>
-    おめシスのホームページを作りたい
   </dd>
 </dl>
