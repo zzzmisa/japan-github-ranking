@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2025/11/28 10:28:01_
+_Last Update Time: 2025/11/29 10:28:19_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 19194</i><br>
+    <i>☆ 19199</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -41,7 +41,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4484</i><br>
+    <i>☆ 4486</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -55,14 +55,14 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 2948</i><br>
+    <i>☆ 2949</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/63388049?v=4" alt="The-Japan-DataScientist-Society" width="36" height="36"><br>
     <a href="https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess/" ><b>The-Japan-DataScientist-Society/100knocks-preprocess</b></a><br>
-    <i>☆ 2490</i><br>
+    <i>☆ 2491</i><br>
     データサイエンス100本ノック（構造化データ加工編）
   </dd>
   <dt>9位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 2224</i><br>
+    <i>☆ 2225</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1782</i><br>
+    <i>☆ 1783</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -139,7 +139,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
     <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
-    <i>☆ 1204</i><br>
+    <i>☆ 1205</i><br>
     YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
   </dd>
   <dt>20位</dt>
@@ -165,17 +165,17 @@ _Last Update Time: 2025/11/28 10:28:01_
   </dd>
   <dt>23位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
+    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
+    <i>☆ 1078</i><br>
+    TypeScriptの入門書『サバイバルTypeScript』
+  </dd>
+  <dt>24位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
     <i>☆ 1077</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
-  </dd>
-  <dt>24位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
-    <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 1077</i><br>
-    TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
   <dd>
@@ -258,7 +258,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 832</i><br>
+    <i>☆ 833</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>37位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 2025/11/28 10:28:01_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
     <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
-    <i>☆ 687</i><br>
+    <i>☆ 688</i><br>
     MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
   </dd>
   <dt>43位</dt>
