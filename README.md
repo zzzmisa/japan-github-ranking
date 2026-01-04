@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/1/3 10:40:55_
+_Last Update Time: 2026/1/4 10:55:31_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 19412</i><br>
+    <i>☆ 19419</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4597</i><br>
+    <i>☆ 4598</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4561</i><br>
+    <i>☆ 4564</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>6位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 2266</i><br>
+    <i>☆ 2267</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1820</i><br>
+    <i>☆ 1824</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -111,14 +111,14 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1323</i><br>
+    <i>☆ 1324</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>16位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 1280</i><br>
+    <i>☆ 1282</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>17位</dt>
@@ -132,7 +132,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
     <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
-    <i>☆ 1244</i><br>
+    <i>☆ 1243</i><br>
     YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
   </dd>
   <dt>19位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 1200</i><br>
+    <i>☆ 1201</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>22位</dt>
@@ -195,7 +195,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1016</i><br>
+    <i>☆ 1018</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>28位</dt>
@@ -209,7 +209,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/normalize-japanese-addresses/" ><b>geolonia/normalize-japanese-addresses</b></a><br>
-    <i>☆ 941</i><br>
+    <i>☆ 942</i><br>
     オープンソースの住所正規化ライブラリ。
   </dd>
   <dt>30位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 2026/1/3 10:40:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 837</i><br>
+    <i>☆ 838</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>36位</dt>
@@ -340,23 +340,23 @@ _Last Update Time: 2026/1/3 10:40:55_
   </dd>
   <dt>48位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/210232249?v=4" alt="team-mirai" width="36" height="36"><br>
+    <a href="https://github.com/team-mirai/marumie/" ><b>team-mirai/marumie</b></a><br>
+    <i>☆ 607</i><br>
+    政治資金の流れを透明性を持って公開するプラットフォームです
+  </dd>
+  <dt>49位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/82371?v=4" alt="willnet" width="36" height="36"><br>
     <a href="https://github.com/willnet/rspec-style-guide/" ><b>willnet/rspec-style-guide</b></a><br>
     <i>☆ 607</i><br>
     可読性の高いテストコードを書くためのお作法集
   </dd>
-  <dt>49位</dt>
+  <dt>50位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16516088?v=4" alt="l3tnun" width="36" height="36"><br>
     <a href="https://github.com/l3tnun/EPGStation/" ><b>l3tnun/EPGStation</b></a><br>
     <i>☆ 605</i><br>
     Mirakurun を使用した録画管理ソフト
-  </dd>
-  <dt>50位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/210232249?v=4" alt="team-mirai" width="36" height="36"><br>
-    <a href="https://github.com/team-mirai/marumie/" ><b>team-mirai/marumie</b></a><br>
-    <i>☆ 605</i><br>
-    政治資金の流れを透明性を持って公開するプラットフォームです
   </dd>
 </dl>
