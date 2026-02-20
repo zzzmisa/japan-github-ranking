@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/2/19 11:10:16_
+_Last Update Time: 2026/2/20 11:06:13_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 19719</i><br>
+    <i>☆ 19721</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -48,14 +48,14 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 3893</i><br>
+    <i>☆ 3894</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 3018</i><br>
+    <i>☆ 3020</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 2302</i><br>
+    <i>☆ 2304</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1876</i><br>
+    <i>☆ 1877</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -179,30 +179,30 @@ _Last Update Time: 2026/2/19 11:10:16_
   </dd>
   <dt>25位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
+    <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
+    <i>☆ 1048</i><br>
+    Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
+  </dd>
+  <dt>26位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
     <i>☆ 1047</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
-  <dt>26位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
-    <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1046</i><br>
-    Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
-  </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
-    <i>☆ 1045</i><br>
+    <i>☆ 1046</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
   <dt>28位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=e7230dc68574ffdb4ab65460a627b325bcf54f03&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 999</i><br>
+    <i>☆ 1000</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>29位</dt>
@@ -230,7 +230,7 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 882</i><br>
+    <i>☆ 883</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>33位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 851</i><br>
+    <i>☆ 849</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>36位</dt>
@@ -265,28 +265,28 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3041130?v=4" alt="dnobori" width="36" height="36"><br>
     <a href="https://github.com/dnobori/DN_SuperBook_PDF_Converter/" ><b>dnobori/DN_SuperBook_PDF_Converter</b></a><br>
-    <i>☆ 809</i><br>
+    <i>☆ 810</i><br>
     DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール
   </dd>
   <dt>38位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 805</i><br>
+    <i>☆ 806</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>39位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7150984?v=4" alt="annict" width="36" height="36"><br>
     <a href="https://github.com/annict/annict/" ><b>annict/annict</b></a><br>
-    <i>☆ 764</i><br>
+    <i>☆ 765</i><br>
     次に観たい作品が見つかるアニメ視聴記録サービス
   </dd>
   <dt>40位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/42296593?v=4" alt="geolonia" width="36" height="36"><br>
     <a href="https://github.com/geolonia/japanese-addresses/" ><b>geolonia/japanese-addresses</b></a><br>
-    <i>☆ 758</i><br>
+    <i>☆ 759</i><br>
     全国の町丁目レベル（277,191件）の住所データのオープンデータ
   </dd>
   <dt>41位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
     <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
-    <i>☆ 715</i><br>
+    <i>☆ 716</i><br>
     MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
   </dd>
   <dt>43位</dt>
@@ -314,14 +314,14 @@ _Last Update Time: 2026/2/19 11:10:16_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 708</i><br>
+    <i>☆ 709</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>45位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/210232249?v=4" alt="team-mirai" width="36" height="36"><br>
     <a href="https://github.com/team-mirai/marumie/" ><b>team-mirai/marumie</b></a><br>
-    <i>☆ 669</i><br>
+    <i>☆ 672</i><br>
     政治資金の流れを透明性を持って公開するプラットフォームです
   </dd>
   <dt>46位</dt>
