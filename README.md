@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/5/11 12:32:55_
+_Last Update Time: 2026/5/12 11:57:39_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 20197</i><br>
+    <i>☆ 20205</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4835</i><br>
+    <i>☆ 4839</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4750</i><br>
+    <i>☆ 4751</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 3117</i><br>
+    <i>☆ 3118</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -90,14 +90,14 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1958</i><br>
+    <i>☆ 1959</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1693</i><br>
+    <i>☆ 1694</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>14位</dt>
@@ -118,14 +118,14 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1382</i><br>
+    <i>☆ 1383</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>17位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 1345</i><br>
+    <i>☆ 1346</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>18位</dt>
@@ -160,7 +160,7 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr-lite/" ><b>ndl-lab/ndlocr-lite</b></a><br>
-    <i>☆ 1190</i><br>
+    <i>☆ 1196</i><br>
     NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
   </dd>
   <dt>23位</dt>
@@ -174,14 +174,14 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 1118</i><br>
+    <i>☆ 1117</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 1101</i><br>
+    <i>☆ 1103</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>26位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/90471971?v=4" alt="sstklen" width="36" height="36"><br>
     <a href="https://github.com/sstklen/trump-code/" ><b>sstklen/trump-code</b></a><br>
-    <i>☆ 747</i><br>
+    <i>☆ 746</i><br>
     🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
   </dd>
   <dt>43位</dt>
@@ -321,7 +321,7 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/6400065?u=a2ce35b69d541ce07b99b21ed4b0dea58118ee73&v=4" alt="kobalab" width="36" height="36"><br>
     <a href="https://github.com/kobalab/Majiang/" ><b>kobalab/Majiang</b></a><br>
-    <i>☆ 727</i><br>
+    <i>☆ 728</i><br>
     HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」
   </dd>
   <dt>46位</dt>
@@ -342,7 +342,7 @@ _Last Update Time: 2026/5/11 12:32:55_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr_cli/" ><b>ndl-lab/ndlocr_cli</b></a><br>
-    <i>☆ 673</i><br>
+    <i>☆ 674</i><br>
     NDLOCRアプリケーションのリポジトリ（ソースコードを含む）
   </dd>
   <dt>49位</dt>
