@@ -6,28 +6,28 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/5/26 12:33:47_
+_Last Update Time: 2026/5/27 12:49:33_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 20287</i><br>
+    <i>☆ 20292</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8224</i><br>
+    <i>☆ 8223</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6192</i><br>
+    <i>☆ 6193</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
@@ -48,14 +48,14 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 4025</i><br>
+    <i>☆ 4026</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 3129</i><br>
+    <i>☆ 3127</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -69,7 +69,7 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/21981104?v=4" alt="js-primer" width="36" height="36"><br>
     <a href="https://github.com/js-primer/js-primer/" ><b>js-primer/js-primer</b></a><br>
-    <i>☆ 2410</i><br>
+    <i>☆ 2409</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>10位</dt>
@@ -90,7 +90,7 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 1967</i><br>
+    <i>☆ 1969</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
     <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
-    <i>☆ 1416</i><br>
+    <i>☆ 1420</i><br>
     YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
   </dd>
   <dt>15位</dt>
@@ -146,7 +146,7 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 1232</i><br>
+    <i>☆ 1233</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>21位</dt>
@@ -174,21 +174,21 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 1120</i><br>
+    <i>☆ 1119</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 1108</i><br>
+    <i>☆ 1109</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>26位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1086</i><br>
+    <i>☆ 1084</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>27位</dt>
@@ -202,14 +202,14 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
-    <i>☆ 1071</i><br>
+    <i>☆ 1070</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12015279?u=e7230dc68574ffdb4ab65460a627b325bcf54f03&v=4" alt="yui540" width="36" height="36"><br>
     <a href="https://github.com/yui540/Cowardly-Witch/" ><b>yui540/Cowardly-Witch</b></a><br>
-    <i>☆ 1007</i><br>
+    <i>☆ 1006</i><br>
     『臆病な魔女は、Webサイトに魔法をかけた。』
   </dd>
   <dt>30位</dt>
@@ -293,7 +293,7 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/90471971?v=4" alt="sstklen" width="36" height="36"><br>
     <a href="https://github.com/sstklen/trump-code/" ><b>sstklen/trump-code</b></a><br>
-    <i>☆ 756</i><br>
+    <i>☆ 758</i><br>
     🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
   </dd>
   <dt>42位</dt>
@@ -328,21 +328,21 @@ _Last Update Time: 2026/5/26 12:33:47_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1807869?u=55b93ddac1a73091c6778592d87ccbd676fee1cf&v=4" alt="kzhrknt" width="36" height="36"><br>
     <a href="https://github.com/kzhrknt/awesome-design-md-jp/" ><b>kzhrknt/awesome-design-md-jp</b></a><br>
-    <i>☆ 697</i><br>
+    <i>☆ 699</i><br>
     日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
   </dd>
   <dt>47位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/210232249?v=4" alt="team-mirai" width="36" height="36"><br>
     <a href="https://github.com/team-mirai/marumie/" ><b>team-mirai/marumie</b></a><br>
-    <i>☆ 690</i><br>
+    <i>☆ 692</i><br>
     政治資金の流れを透明性を持って公開するプラットフォームです
   </dd>
   <dt>48位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr_cli/" ><b>ndl-lab/ndlocr_cli</b></a><br>
-    <i>☆ 676</i><br>
+    <i>☆ 675</i><br>
     NDLOCRアプリケーションのリポジトリ（ソースコードを含む）
   </dd>
   <dt>49位</dt>
