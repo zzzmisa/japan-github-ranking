@@ -6,35 +6,35 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/7/7 12:22:49_
+_Last Update Time: 2026/7/8 11:40:26_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 20569</i><br>
+    <i>☆ 20572</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8229</i><br>
+    <i>☆ 8228</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6191</i><br>
+    <i>☆ 6186</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 4930</i><br>
+    <i>☆ 4934</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>5位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 3188</i><br>
+    <i>☆ 3187</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/HackGen/" ><b>yuru7/HackGen</b></a><br>
-    <i>☆ 2400</i><br>
+    <i>☆ 2399</i><br>
     Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
   </dd>
   <dt>11位</dt>
@@ -111,7 +111,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1413</i><br>
+    <i>☆ 1414</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>16位</dt>
@@ -139,7 +139,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr-lite/" ><b>ndl-lab/ndlocr-lite</b></a><br>
-    <i>☆ 1264</i><br>
+    <i>☆ 1266</i><br>
     NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
   </dd>
   <dt>20位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-2/" ><b>oreilly-japan/deep-learning-from-scratch-2</b></a><br>
-    <i>☆ 1239</i><br>
+    <i>☆ 1240</i><br>
     『ゼロから作る Deep Learning ❷』(O'Reilly Japan, 2018)
   </dd>
   <dt>22位</dt>
@@ -174,7 +174,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/53589270?v=4" alt="yytypescript" width="36" height="36"><br>
     <a href="https://github.com/yytypescript/book/" ><b>yytypescript/book</b></a><br>
-    <i>☆ 1127</i><br>
+    <i>☆ 1126</i><br>
     TypeScriptの入門書『サバイバルTypeScript』
   </dd>
   <dt>25位</dt>
@@ -228,17 +228,17 @@ _Last Update Time: 2026/7/7 12:22:49_
   </dd>
   <dt>32位</dt>
   <dd>
+    <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
+    <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
+    <i>☆ 905</i><br>
+    拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
+  </dd>
+  <dt>33位</dt>
+  <dd>
     <img src="https://avatars.githubusercontent.com/u/1779073?u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" alt="Grabacr07" width="36" height="36"><br>
     <a href="https://github.com/Grabacr07/KanColleViewer/" ><b>Grabacr07/KanColleViewer</b></a><br>
     <i>☆ 904</i><br>
     艦これブラウザーのようなもの
-  </dd>
-  <dt>33位</dt>
-  <dd>
-    <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
-    <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 903</i><br>
-    拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>34位</dt>
   <dd>
@@ -272,7 +272,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro_educational_90/" ><b>E869120/kyopro_educational_90</b></a><br>
-    <i>☆ 846</i><br>
+    <i>☆ 847</i><br>
     2021/3/30 ～ 2021/7/12 に行われる企画「競プロ典型 90 問」の問題・解説・ソースコードなどの資料をアップロードしています。
   </dd>
   <dt>39位</dt>
@@ -286,7 +286,7 @@ _Last Update Time: 2026/7/7 12:22:49_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1807869?u=55b93ddac1a73091c6778592d87ccbd676fee1cf&v=4" alt="kzhrknt" width="36" height="36"><br>
     <a href="https://github.com/kzhrknt/awesome-design-md-jp/" ><b>kzhrknt/awesome-design-md-jp</b></a><br>
-    <i>☆ 813</i><br>
+    <i>☆ 815</i><br>
     日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
   </dd>
   <dt>41位</dt>
