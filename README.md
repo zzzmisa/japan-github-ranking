@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/8/29 14:51:52_
+_Last Update Time: 2026/8/30 12:55:36_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 20882</i><br>
+    <i>☆ 20887</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -76,7 +76,7 @@ _Last Update Time: 2026/8/29 14:51:52_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/21981104?v=4" alt="js-primer" width="36" height="36"><br>
     <a href="https://github.com/js-primer/js-primer/" ><b>js-primer/js-primer</b></a><br>
-    <i>☆ 2415</i><br>
+    <i>☆ 2416</i><br>
     :book: JavaScript Primer - 迷わないための入門書
   </dd>
   <dt>11位</dt>
@@ -160,7 +160,7 @@ _Last Update Time: 2026/8/29 14:51:52_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/172281510?v=4" alt="takahiroanno2024" width="36" height="36"><br>
     <a href="https://github.com/takahiroanno2024/election2024/" ><b>takahiroanno2024/election2024</b></a><br>
-    <i>☆ 1190</i><br>
+    <i>☆ 1189</i><br>
     東京都知事選2024のリポジトリ
   </dd>
   <dt>23位</dt>
@@ -188,14 +188,14 @@ _Last Update Time: 2026/8/29 14:51:52_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
-    <i>☆ 1111</i><br>
+    <i>☆ 1112</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
   <dt>27位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1104</i><br>
+    <i>☆ 1105</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>28位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 2026/8/29 14:51:52_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3041130?v=4" alt="dnobori" width="36" height="36"><br>
     <a href="https://github.com/dnobori/DN_SuperBook_PDF_Converter/" ><b>dnobori/DN_SuperBook_PDF_Converter</b></a><br>
-    <i>☆ 880</i><br>
+    <i>☆ 881</i><br>
     DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール
   </dd>
   <dt>36位</dt>
