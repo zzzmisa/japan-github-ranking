@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/9/20 12:40:15_
+_Last Update Time: 2026/9/21 12:35:26_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 21017</i><br>
+    <i>☆ 21024</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -34,14 +34,14 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 5067</i><br>
+    <i>☆ 5066</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4858</i><br>
+    <i>☆ 4859</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>6位</dt>
@@ -55,7 +55,7 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox/" ><b>VOICEVOX/voicevox</b></a><br>
-    <i>☆ 3246</i><br>
+    <i>☆ 3245</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター
   </dd>
   <dt>8位</dt>
@@ -104,7 +104,7 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
     <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
-    <i>☆ 1598</i><br>
+    <i>☆ 1599</i><br>
     YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
   </dd>
   <dt>15位</dt>
@@ -118,14 +118,14 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 1390</i><br>
+    <i>☆ 1391</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>17位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19714?u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" alt="azu" width="36" height="36"><br>
     <a href="https://github.com/azu/promises-book/" ><b>azu/promises-book</b></a><br>
-    <i>☆ 1381</i><br>
+    <i>☆ 1380</i><br>
     JavaScript Promiseの本
   </dd>
   <dt>18位</dt>
@@ -195,21 +195,21 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/9904?u=2d412633aa297394ac84801073071ca213266b65&v=4" alt="coji" width="36" height="36"><br>
     <a href="https://github.com/coji/natural-japanese/" ><b>coji/natural-japanese</b></a><br>
-    <i>☆ 1108</i><br>
+    <i>☆ 1114</i><br>
     仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
   </dd>
   <dt>28位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1106</i><br>
+    <i>☆ 1107</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>29位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/12462251?u=c73a92ed1e43f2cfcdc4ee7e0429ef33611a99ea&v=4" alt="kaz-ogiwara" width="36" height="36"><br>
     <a href="https://github.com/kaz-ogiwara/covid19/" ><b>kaz-ogiwara/covid19</b></a><br>
-    <i>☆ 1071</i><br>
+    <i>☆ 1070</i><br>
     新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
   </dd>
   <dt>30位</dt>
@@ -258,7 +258,7 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/3041130?v=4" alt="dnobori" width="36" height="36"><br>
     <a href="https://github.com/dnobori/DN_SuperBook_PDF_Converter/" ><b>dnobori/DN_SuperBook_PDF_Converter</b></a><br>
-    <i>☆ 887</i><br>
+    <i>☆ 888</i><br>
     DN_SuperBook_PDF_Converter - スキャン書籍 PDF をデジタル書籍並みに大変クリアに読みやすくする AI PDF 高品質化・各種調整ツール
   </dd>
   <dt>37位</dt>
@@ -300,7 +300,7 @@ _Last Update Time: 2026/9/20 12:40:15_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/90471971?v=4" alt="sstklen" width="36" height="36"><br>
     <a href="https://github.com/sstklen/trump-code/" ><b>sstklen/trump-code</b></a><br>
-    <i>☆ 800</i><br>
+    <i>☆ 801</i><br>
     🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
   </dd>
   <dt>43位</dt>
