@@ -6,21 +6,21 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/10/6 14:09:13_
+_Last Update Time: 2026/10/7 13:35:46_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 21103</i><br>
+    <i>☆ 21113</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/7032792?v=4" alt="lltcggie" width="36" height="36"><br>
     <a href="https://github.com/lltcggie/waifu2x-caffe/" ><b>lltcggie/waifu2x-caffe</b></a><br>
-    <i>☆ 8213</i><br>
+    <i>☆ 8212</i><br>
     waifu2xのCaffe版
   </dd>
   <dt>3位</dt>
@@ -34,21 +34,21 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 5083</i><br>
+    <i>☆ 5085</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4871</i><br>
+    <i>☆ 4872</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 4270</i><br>
+    <i>☆ 4271</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -90,56 +90,56 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 2052</i><br>
+    <i>☆ 2051</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>13位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/9904?u=2d412633aa297394ac84801073071ca213266b65&v=4" alt="coji" width="36" height="36"><br>
     <a href="https://github.com/coji/natural-japanese/" ><b>coji/natural-japanese</b></a><br>
-    <i>☆ 1877</i><br>
+    <i>☆ 1883</i><br>
     仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
   </dd>
   <dt>14位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1766</i><br>
+    <i>☆ 1767</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>15位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
-    <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
-    <i>☆ 1609</i><br>
-    YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
+    <img src="https://avatars.githubusercontent.com/u/72681409?u=fc04e6d57edf80b3c2a2a2970a05ec209bdf7ea2&v=4" alt="nanaism" width="36" height="36"><br>
+    <a href="https://github.com/nanaism/yomiyasu/" ><b>nanaism/yomiyasu</b></a><br>
+    <i>☆ 1648</i><br>
+    AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
   </dd>
   <dt>16位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/137879019?u=d1c62412919b51d21b6b2b4928c3116cc57a988a&v=4" alt="852wa" width="36" height="36"><br>
     <a href="https://github.com/852wa/JIZURA/" ><b>852wa/JIZURA</b></a><br>
-    <i>☆ 1588</i><br>
+    <i>☆ 1622</i><br>
     歌詞から文字PVを自動で組み立てるブラウザアプリ
   </dd>
   <dt>17位</dt>
   <dd>
-    <img src="https://avatars.githubusercontent.com/u/72681409?u=fc04e6d57edf80b3c2a2a2970a05ec209bdf7ea2&v=4" alt="nanaism" width="36" height="36"><br>
-    <a href="https://github.com/nanaism/yomiyasu/" ><b>nanaism/yomiyasu</b></a><br>
-    <i>☆ 1540</i><br>
-    AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
+    <img src="https://avatars.githubusercontent.com/u/114294784?v=4" alt="kotaro-kinoshita" width="36" height="36"><br>
+    <a href="https://github.com/kotaro-kinoshita/yomitoku/" ><b>kotaro-kinoshita/yomitoku</b></a><br>
+    <i>☆ 1610</i><br>
+    YomiTokuはAIを活用した日本語文書解析エンジンを提供するPythonパッケージです。 Yomitoku is an AI-powered document image analysis package designed specifically for the Japanese language.
   </dd>
   <dt>18位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/134031702?v=4" alt="llm-jp" width="36" height="36"><br>
     <a href="https://github.com/llm-jp/awesome-japanese-llm/" ><b>llm-jp/awesome-japanese-llm</b></a><br>
-    <i>☆ 1437</i><br>
+    <i>☆ 1438</i><br>
     日本語LLMまとめ - Overview of Japanese LLMs
   </dd>
   <dt>19位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 1394</i><br>
+    <i>☆ 1395</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>20位</dt>
@@ -153,7 +153,7 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr-lite/" ><b>ndl-lab/ndlocr-lite</b></a><br>
-    <i>☆ 1341</i><br>
+    <i>☆ 1342</i><br>
     NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
   </dd>
   <dt>22位</dt>
@@ -195,7 +195,7 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/19858336?v=4" alt="textlint-ja" width="36" height="36"><br>
     <a href="https://github.com/textlint-ja/textlint-rule-preset-ai-writing/" ><b>textlint-ja/textlint-rule-preset-ai-writing</b></a><br>
-    <i>☆ 1152</i><br>
+    <i>☆ 1154</i><br>
     textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
   </dd>
   <dt>28位</dt>
@@ -216,8 +216,8 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/110534823?v=4" alt="carnot-tech" width="36" height="36"><br>
     <a href="https://github.com/carnot-tech/consulting-pptx-skill/" ><b>carnot-tech/consulting-pptx-skill</b></a><br>
-    <i>☆ 1109</i><br>
-    AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋62型スライド型カタログ（SlideSpec 36型＋自由記述27パーツ）＋生成パイプライン＋機械チェック
+    <i>☆ 1122</i><br>
+    AIにまじなPPTXを作らせるClaude Codeスキル
   </dd>
   <dt>31位</dt>
   <dd>
@@ -244,7 +244,7 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1807869?u=55b93ddac1a73091c6778592d87ccbd676fee1cf&v=4" alt="kzhrknt" width="36" height="36"><br>
     <a href="https://github.com/kzhrknt/awesome-design-md-jp/" ><b>kzhrknt/awesome-design-md-jp</b></a><br>
-    <i>☆ 985</i><br>
+    <i>☆ 984</i><br>
     日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
   </dd>
   <dt>35位</dt>
@@ -314,14 +314,14 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30430584?u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" alt="sh-akira" width="36" height="36"><br>
     <a href="https://github.com/sh-akira/VirtualMotionCapture/" ><b>sh-akira/VirtualMotionCapture</b></a><br>
-    <i>☆ 827</i><br>
+    <i>☆ 826</i><br>
     VRゲーム中にモデルをコントロール
   </dd>
   <dt>45位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/90471971?v=4" alt="sstklen" width="36" height="36"><br>
     <a href="https://github.com/sstklen/trump-code/" ><b>sstklen/trump-code</b></a><br>
-    <i>☆ 804</i><br>
+    <i>☆ 802</i><br>
     🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
   </dd>
   <dt>46位</dt>
@@ -335,14 +335,14 @@ _Last Update Time: 2026/10/6 14:09:13_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/37477845?u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" alt="Kazuhito00" width="36" height="36"><br>
     <a href="https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe/" ><b>Kazuhito00/hand-gesture-recognition-using-mediapipe</b></a><br>
-    <i>☆ 767</i><br>
+    <i>☆ 768</i><br>
     MediaPipe(Python版)を用いて手の姿勢推定を行い、検出したキーポイントを用いて、簡易なMLPでハンドサインとフィンガージェスチャーを認識するサンプルプログラムです。（Estimate hand pose using MediaPipe(Python version). This is a sample program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.）
   </dd>
   <dt>48位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/kyopro-tessoku/" ><b>E869120/kyopro-tessoku</b></a><br>
-    <i>☆ 746</i><br>
+    <i>☆ 745</i><br>
     拙著『競技プログラミングの鉄則』（2022/9/16 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>49位</dt>
