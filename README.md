@@ -6,14 +6,14 @@ DescriptionとReadme両方に日本語がある程度書かれているリポジ
 Repositories with some Japanese sentences for descriptions and README are sorted by GitHub stars in the ranking. Automatically update daily. The data is aggregated without taking proper steps and unofficial.
 
 ***
-_Last Update Time: 2026/10/27 12:56:05_
+_Last Update Time: 2026/10/28 13:16:10_
 
 <dl>
   <dt>1位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/48346627?v=4" alt="w-okada" width="36" height="36"><br>
     <a href="https://github.com/w-okada/voice-changer/" ><b>w-okada/voice-changer</b></a><br>
-    <i>☆ 21247</i><br>
+    <i>☆ 21252</i><br>
     リアルタイムボイスチェンジャー Realtime Voice Changer
   </dd>
   <dt>2位</dt>
@@ -27,28 +27,28 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/91878926?v=4" alt="Tokyo-Metro-Gov" width="36" height="36"><br>
     <a href="https://github.com/Tokyo-Metro-Gov/covid19/" ><b>Tokyo-Metro-Gov/covid19</b></a><br>
-    <i>☆ 6169</i><br>
+    <i>☆ 6168</i><br>
     東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website
   </dd>
   <dt>4位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/16860691?u=d8a4042b9a60b7be0c2f8432ff4867566a749a16&v=4" alt="sorayuki" width="36" height="36"><br>
     <a href="https://github.com/sorayuki/obs-multi-rtmp/" ><b>sorayuki/obs-multi-rtmp</b></a><br>
-    <i>☆ 5121</i><br>
+    <i>☆ 5126</i><br>
     OBS複数サイト同時配信プラグイン
   </dd>
   <dt>5位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch/" ><b>oreilly-japan/deep-learning-from-scratch</b></a><br>
-    <i>☆ 4896</i><br>
+    <i>☆ 4898</i><br>
     『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
   </dd>
   <dt>6位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/186866?u=03b67510ba531fd0389179dc6e568be92880c4af&v=4" alt="kanasimi" width="36" height="36"><br>
     <a href="https://github.com/kanasimi/work_crawler/" ><b>kanasimi/work_crawler</b></a><br>
-    <i>☆ 4331</i><br>
+    <i>☆ 4334</i><br>
     Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
   </dd>
   <dt>7位</dt>
@@ -62,7 +62,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/72681409?u=fc04e6d57edf80b3c2a2a2970a05ec209bdf7ea2&v=4" alt="nanaism" width="36" height="36"><br>
     <a href="https://github.com/nanaism/yomiyasu/" ><b>nanaism/yomiyasu</b></a><br>
-    <i>☆ 2583</i><br>
+    <i>☆ 2612</i><br>
     AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese
   </dd>
   <dt>9位</dt>
@@ -97,28 +97,28 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/137879019?u=d1c62412919b51d21b6b2b4928c3116cc57a988a&v=4" alt="852wa" width="36" height="36"><br>
     <a href="https://github.com/852wa/JIZURA/" ><b>852wa/JIZURA</b></a><br>
-    <i>☆ 2107</i><br>
+    <i>☆ 2123</i><br>
     歌詞から文字PVを自動で組み立てるブラウザアプリ
   </dd>
   <dt>14位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/udev-gothic/" ><b>yuru7/udev-gothic</b></a><br>
-    <i>☆ 2061</i><br>
+    <i>☆ 2062</i><br>
     UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
   </dd>
   <dt>15位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/9904?u=2d412633aa297394ac84801073071ca213266b65&v=4" alt="coji" width="36" height="36"><br>
     <a href="https://github.com/coji/natural-japanese/" ><b>coji/natural-japanese</b></a><br>
-    <i>☆ 1970</i><br>
+    <i>☆ 1978</i><br>
     仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。
   </dd>
   <dt>16位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_engine/" ><b>VOICEVOX/voicevox_engine</b></a><br>
-    <i>☆ 1773</i><br>
+    <i>☆ 1774</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
   </dd>
   <dt>17位</dt>
@@ -139,21 +139,21 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/110534823?v=4" alt="carnot-tech" width="36" height="36"><br>
     <a href="https://github.com/carnot-tech/jinba-consulting-pptx-skill/" ><b>carnot-tech/jinba-consulting-pptx-skill</b></a><br>
-    <i>☆ 1433</i><br>
+    <i>☆ 1439</i><br>
     AIにまじなPPTXを作らせる Claude Code / Codex スキル
   </dd>
   <dt>20位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/182478812?u=dd69063ccc2da0ce4eb0c7a39d7fa3ca26aa48cf&v=4" alt="yksr-melt" width="36" height="36"><br>
     <a href="https://github.com/yksr-melt/Meltype/" ><b>yksr-melt/Meltype</b></a><br>
-    <i>☆ 1412</i><br>
+    <i>☆ 1428</i><br>
     雪解けのように、半角/全角の壁を溶かす日本語入力。
   </dd>
   <dt>21位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/PlemolJP/" ><b>yuru7/PlemolJP</b></a><br>
-    <i>☆ 1400</i><br>
+    <i>☆ 1401</i><br>
     IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)
   </dd>
   <dt>22位</dt>
@@ -167,14 +167,14 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/54434197?v=4" alt="ndl-lab" width="36" height="36"><br>
     <a href="https://github.com/ndl-lab/ndlocr-lite/" ><b>ndl-lab/ndlocr-lite</b></a><br>
-    <i>☆ 1362</i><br>
+    <i>☆ 1363</i><br>
     NDLOCR-Liteアプリケーションのリポジトリ（ソースコードを含む）NDLOCR‑Lite application repository (including source code)
   </dd>
   <dt>24位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/224984571?u=983d50206e0eb07f1875b3e5691012a08e037ceb&v=4" alt="MaryCache" width="36" height="36"><br>
     <a href="https://github.com/MaryCache/imozuru/" ><b>MaryCache/imozuru</b></a><br>
-    <i>☆ 1324</i><br>
+    <i>☆ 1338</i><br>
     知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル
   </dd>
   <dt>25位</dt>
@@ -209,7 +209,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/30901380?u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" alt="E869120" width="36" height="36"><br>
     <a href="https://github.com/E869120/math-algorithm-book/" ><b>E869120/math-algorithm-book</b></a><br>
-    <i>☆ 1159</i><br>
+    <i>☆ 1160</i><br>
     拙著『「アルゴリズム×数学」が基礎からしっかり身につく本』（2021/12/25 発売）の GitHub ページです。演習問題の解答や、C++ 以外のソースコードなどが掲載されています。ぜひご活用ください。
   </dd>
   <dt>30位</dt>
@@ -223,7 +223,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/95246571?v=4" alt="VOICEVOX" width="36" height="36"><br>
     <a href="https://github.com/VOICEVOX/voicevox_core/" ><b>VOICEVOX/voicevox_core</b></a><br>
-    <i>☆ 1147</i><br>
+    <i>☆ 1148</i><br>
     無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
   </dd>
   <dt>32位</dt>
@@ -237,7 +237,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/13458509?u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" alt="yuru7" width="36" height="36"><br>
     <a href="https://github.com/yuru7/moralerspace/" ><b>yuru7/moralerspace</b></a><br>
-    <i>☆ 1117</i><br>
+    <i>☆ 1118</i><br>
     Moralerspace は、欧文フォント Monaspace と日本語フォント IBM Plex Sans JP 等を合成したプログラミング向けフォントです。
   </dd>
   <dt>34位</dt>
@@ -251,7 +251,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/1807869?u=55b93ddac1a73091c6778592d87ccbd676fee1cf&v=4" alt="kzhrknt" width="36" height="36"><br>
     <a href="https://github.com/kzhrknt/awesome-design-md-jp/" ><b>kzhrknt/awesome-design-md-jp</b></a><br>
-    <i>☆ 995</i><br>
+    <i>☆ 996</i><br>
     日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.
   </dd>
   <dt>36位</dt>
@@ -272,7 +272,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/18711478?u=94d83e16bd931f4435e6a2ff5c1e4ba8ab659b7d&v=4" alt="drken1215" width="36" height="36"><br>
     <a href="https://github.com/drken1215/book_algorithm_solution/" ><b>drken1215/book_algorithm_solution</b></a><br>
-    <i>☆ 911</i><br>
+    <i>☆ 912</i><br>
     拙著「問題解決力を鍛える!アルゴリズムとデータ構造」の補足資料。ソースコードと、章末問題への略解を掲載。
   </dd>
   <dt>39位</dt>
@@ -293,14 +293,14 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/8306337?v=4" alt="oreilly-japan" width="36" height="36"><br>
     <a href="https://github.com/oreilly-japan/deep-learning-from-scratch-3/" ><b>oreilly-japan/deep-learning-from-scratch-3</b></a><br>
-    <i>☆ 883</i><br>
+    <i>☆ 884</i><br>
     『ゼロから作る Deep Learning ❸』(O'Reilly Japan, 2020)
   </dd>
   <dt>42位</dt>
   <dd>
     <img src="https://avatars.githubusercontent.com/u/38151872?u=63af703ad24eb04fb9c478a8240c5dc19ef2649c&v=4" alt="YutaroOgawa" width="36" height="36"><br>
     <a href="https://github.com/YutaroOgawa/pytorch_advanced/" ><b>YutaroOgawa/pytorch_advanced</b></a><br>
-    <i>☆ 872</i><br>
+    <i>☆ 871</i><br>
     書籍「つくりながら学ぶ! PyTorchによる発展ディープラーニング」の実装コードを配置したリポジトリです
   </dd>
   <dt>43位</dt>
@@ -328,7 +328,7 @@ _Last Update Time: 2026/10/27 12:56:05_
   <dd>
     <img src="https://avatars.githubusercontent.com/u/90471971?v=4" alt="sstklen" width="36" height="36"><br>
     <a href="https://github.com/sstklen/trump-code/" ><b>sstklen/trump-code</b></a><br>
-    <i>☆ 809</i><br>
+    <i>☆ 810</i><br>
     🔐 AI decoding Trump's posts × stock market | AI 解碼川普推文 × 美股 | AIでトランプ投稿×株式市場を解読 — 31.5M models, 61.3% hit rate, open source
   </dd>
   <dt>47位</dt>
