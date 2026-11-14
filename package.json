@@ -16,5 +16,10 @@
   "prettier": {
     "singleQuote": true,
     "printWidth": 120
+  },
+  "overrides": {
+    "jsonwebtoken": {
+      "jws": "4.0.1"
+    }
   }
 }
